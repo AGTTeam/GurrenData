@@ -5,7 +5,7 @@ work_NFP
 *_data.txt
 *_output.txt
 table.txt
-analyze_spc.txt
+analyze_*.txt
 *.nds
 *.idb
 *.xdelta
