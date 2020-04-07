@@ -3190,7 +3190,7 @@
 これで失礼しますっ！=Please excuse me!
 グレンラガンのパワー調整は=What about Gurren Lagann’s power
 どうするんだよ？=regulation?
-そそそそれは後で！！=W-w-w-w-w-we can do it later!!
+そそそそれは後で！！=W-W-W-W-W-We can do it later!!
 （うぷっ！）=(*Gag*!)
 ……………=...
 お口に合わなかったのかしら？=Maybe it wasn’t to his taste?
@@ -4711,7 +4711,7 @@
 それに=And, don’t think
 そこのちっこいの！=I’ve forgotten you!
 は？=Meep!
-あ、あたしかな……=M-me...?
+あ、あたしかな……=M-Me...?
 そうだ！=Bingo!
 敵の扇動=Thanks for stirring
 ご苦労だったな！=up the enemy!
@@ -4735,7 +4735,7 @@
 戻るとするか！=should head back too!
 さ～～って…=Rrgh… Why would you do something
 こいつ、どうしてやろうかしら！=like that?!
-どどどどうって、何が何だか=“W-w-w-w-why?” I d-d-d-d-don’t
+どどどどうって、何が何だか=“W-W-W-W-Why?” I d-d-d-d-don’t
 わわわからないっす～～=know what you meeeaaanCUS(WAVE)CUS(WAVE)
 とぼけんじゃないわよっ！！=Don’t play dumb with me!!
 あのカメみたいなガンメンで=You tried to kidnap Lagann with
@@ -5007,7 +5007,7 @@
 敵の躱し方を=teach me...
 教えて=how to evade the
 くれてたんだね！=enemy!
-い、いや？　違う=N-no? That wasn't
+い、いや？　違う=N-No? That wasn't
 違うぞシモン！？=the point, Simon!
 だが…=But...#43(#tc food pun?)
 シモン……=Simon...
@@ -5500,7 +5500,7 @@
 チミルフ様……=Lord Thymilph...
 ……申し訳ありません=My sincere apologies.
 今日はもう潮時か=Is it that time|already?
-は…し、しかし！！=Ye... B-but!!
+は…し、しかし！！=Ye... B-But!!
 ひかえよ、ヴィラル=Restrain yourself,|Viral.
 明日、完膚なきまでに=Tomorrow, we’ll crush
 叩き潰す=them beyond repair.
@@ -5740,14 +5740,14 @@
 言い訳無用！！=I’m not interested in your|explanation!
 んぐ！=Urk!
 ～～～～～～！=CUS(WAVE)CUS(WAVE)CUS(WAVE)CUS(WAVE)CUS(WAVE)!
-も、申し訳ありません！=M-my humble apologies!
+も、申し訳ありません！=M-My humble apologies!
 は！　お側にていつでも=Yes! By your side, I can receive
 ご命令をきけるように…=your orders at any time...
 やっぱりつけていたのかい！=So you really have been spying on
 イヤらしいヤツ！=me! Irksome flea!
 はぐっ！=Ngh!
 ～～～～～～！=CUS(WAVE)CUS(WAVE)CUS(WAVE)CUS(WAVE)CUS(WAVE)!
-も、申し訳ありません！=M-my humble apologies!
+も、申し訳ありません！=M-My humble apologies!
 それはそうと=And now...
 ……チミルフがやられたよ=Thymilph is dead.
 こりゃ一体誰のせいだい！？=Whose fault do you think that is!?
@@ -5795,12 +5795,12 @@
 ところでヴィラル…=By the way, Viral...
 お前=I have not finished
 殴りがいがあるな=discipling you yet.
-…は、はぁ…=...Y-yes ma’am...
+…は、はぁ…=...Y-Yes ma’am...
 ごぼっ！=Ahem!
 ア、アディーネ様…！=G-General Adiane...!
 なんだか=You seem to be
 楽しくなってきたねぇ=having fun.
-そ、そんなぁ！=N-no way!
+そ、そんなぁ！=N-No way!
 はぅ！=Ma’am!
 んだと…=What...!?
 もういっぺん=Why don’t you say
@@ -5945,7 +5945,7 @@
 !FILE:SYS_062.SPC
 あの中には=Tetori is probably inside that
 多分ティトリーも！=thing too.
-く、くそ！！=D-damn it!!
+く、くそ！！=D-Damn it!!
 どうした！=What!?
 アニキとやらが=Without your “Bro”...
 いなければ=!
@@ -6076,8 +6076,8 @@
 それぞれ在りようというものが=Everyone’s has different reasons
 あるでしょ=for being, you know?#tc
 強制はできないわ=You can’t force someone to do|something.
-もう会うことも=Yeah, guess this is where
-ないだろうな=our journey together ends.
+もう会うことも=Yeah, guess this is where our
+ないだろうな=journey together ends.
 ジギタリスのおっさんも=Old Man Ziggitalis is dead...
 死んじゃった……=!
 カミナも……死んじゃった=Kamina’s... dead too...
@@ -6135,7 +6135,7 @@
 なめられるぜ。=history.
 …『大』グレン団=...It’s Team “Dai-”
 でしょ=Gurren now.
-あ、ああ……=R-right...
+あ、ああ……=R-Right...
 ……………くそ！=...Damn it all!
 !FILE:SYS_066.SPC
 シモンさん…=Simon...
@@ -6362,7 +6362,7 @@
 うわ～鳥肌たった！=EeekCUS(WAVE) I’ve got goosebumps!
 あーだめ、生理的にうけつけないわ=Ahh, it’s no good. He doesn’t seem
 あーいうタイプ！=the rational type!
-い、言えない！　あれが=D-don’t say that! He was my former-
+い、言えない！　あれが=D-Don’t say that! He was my former-
 元上官だなんて…言えない！=senior officer...!
 いきがっている者が=You hopeless fools
 弱り=will be crushed.
@@ -6510,9 +6510,9 @@
 尋問なのかね、こりゃ……=Can you even call this an|interrogation...?
 でも、ここの方々は優しい方=But, there are only kind people
 ばかりですのに…敵だなんて…=here... to talk of enemies...
-や、優しい？=K-kind?
+や、優しい？=K-Kind?
 ええ！　もちろんあなたも！=Yes! That includes you too, of|course!
-えへへ、そ、そうか？=Ehehe, T-That so?
+えへへ、そ、そうか？=Ehehe, t-that so?
 ………アホ=...Moron.
 …………はぁ=*...Sigh*
 …シモンにやらせよう=...I’ll leave this to Simon handle this.
@@ -6562,7 +6562,7 @@
 どーすんだよっ！！=What should we do!?
 なんてことなのっ！=What else can we do!? We need to
 白兵戦の用意して！！！=prepare for close combat!!!
-い、いやぁ！=N-no!
+い、いやぁ！=N-No!
 もう遅……きゃっ！！=It’s too late... Agh--!!
 人間とは何とも=Human foolishness
 愚かなものだな=knows no bounds.
@@ -6785,7 +6785,7 @@
 ……ニアっ！=...Nia?
 くそっ！=Damn!
 ………=...
-…え！？だ、=...Huh!? D-don’t do
+…え！？だ、=...Huh!? D-Don’t do
 ダメだ！！　ヨーコ！=it!! Yoko!
 ………=...
 ヨーコさん……=Yoko...
@@ -6847,7 +6847,7 @@
 う～～んと……=Hmm...
 大丈夫だって！　そこで覗いている=It’s nice! Just ask Simon, whose
 シモンに聞いてごらんなさい！=been staring this whole time!
-え、い、いや！　覗いてなんか！=Err T-That’s-! I wasn’t staring!
+え、い、いや！　覗いてなんか！=Err t-that’s-! I wasn’t staring!
 シモン……どうでしょう？=Simon... What do you think?
 似合っていますか？=Does it suit me?
 う、うん！！　とっても=Y-Yes! It looks really nice, I
@@ -6998,7 +6998,7 @@
 何だって！？=What did you say!?
 グレンラガン、出撃準備=Gurren Lagann is ready to charge,
 できてるわよ！　シモン！=Simon!
-よ、よし！=R-right!
+よ、よし！=R-Right!
 よーし、メガヘッズも=All righty, Megaheadz will go
 出撃しちゃうっすよ！！=with you!
 い、いいわよ！=W-We’re fine.
@@ -7330,7 +7330,7 @@
 きっちりやるわよ！！！=end of the bargain!!
 ロシウ！　ロシウ！！=Rossiu! Rossiu!!
 しっかりしろ！=Pull yourself together!
-う、うう…=N-ngh...
+う、うう…=N-Ngh...
 いったい=What was...?
 大丈夫だ…寸でのところで=It’s all right...
 穴を掘った…= >>I managed to dig a hole below us|before we were crushed...
