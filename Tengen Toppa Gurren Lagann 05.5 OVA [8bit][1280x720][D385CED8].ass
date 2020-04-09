@@ -372,7 +372,7 @@ Dialogue: 8,0:01:16.50,0:01:17.53,OP2,,0,0,0,fx,{\an5\blur6\bord6\pos(761,36)\fa
 Dialogue: 9,0:01:17.13,0:01:20.36,OP2,,0,0,0,fx,{\an5\blur6\bord6\pos(791,36)\fad(0,400)\t(0,100,\3c&HFFFFFF&\fscx130\fscy130)\t(100,2830,\3c&H00F2A775&\fscx100\fscy100\bord3\blur3)}ru
 Dialogue: 0,0:01:52.99,0:01:54.84,Default,,0,0,0,,Commencing operation!
 Dialogue: 0,0:02:02.10,0:02:07.85,EpisodeLogo,,0,0,0,,{\be1\t(\fs64)\move(669.333,73.333,670.667,61.667,28,5742)}My Gurren is
-Dialogue: 0,0:02:08.56,0:02:14.03,EpisodeLogo,,0,0,0,,{\be1\fs80\t(\fs84)\move(653.333,713.333,654.666,731,39,5462)}Shining   !!
+Dialogue: 0,0:02:08.56,0:02:14.03,EpisodeLogo,,0,0,0,,{\be1\fs80\t(\fs84)\move(653.333,713.333,654.666,731,39,5462)}Sparkling!!
 Dialogue: 0,0:02:17.14,0:02:18.23,Default,,0,0,0,,My eyes!
 Dialogue: 0,0:02:18.23,0:02:21.16,Default,,0,0,0,,I've gone blind!
 Dialogue: 0,0:02:22.57,0:02:23.66,Default,,0,0,0,,Bro!
