@@ -600,7 +600,7 @@
 !FILE:DEB_BAT.SPC
 バトルデバッグだよ。=This is the battle debugger.
 マップテスト=<<Map Test
-シナリオ内戦闘=<<Play Episodes
+シナリオ内戦闘=<<Chapter Select
 キャンセル=<<Cancel
 宇宙ステージ=<<Outer Space Stage
 山道テスト=<<Mountain Path Test
@@ -1394,8 +1394,8 @@
 カスタマイズモード=Customization Mode
 !FILE:EV_001.SPC
 …………………………=.....................|Digging tunnels...
-毎日毎日掘ること=Day after day,
-だけが俺の仕事だ=that's my job.
+毎日毎日掘ること=Day after day, that's
+だけが俺の仕事だ=my job.
 !FILE:EV_002.SPC
 しっかり掘れ～～！=Keep digging!
 穴を掘ればそれだけ村が広がる=The more we dig, the more the
@@ -1420,7 +1420,7 @@
 気をつけないと=Careful, he might
 穴掘られるかもよ！=drill a hole in us!
 ……………………………………=........................
-掘ったりするもんか…………=I wouldn’t do something like|that...
+掘ったりするもんか…………=I wouldn’t do something like|that...#tc
 !FILE:EV_005.SPC
 ……………=.................
 顔みてぇなやつって=So, the thing you
@@ -1666,7 +1666,7 @@
 !FILE:KAMI_001.SPC
 上を向いて歩け、シモン=Walk with your head held high,|Simon.
 あ、<A5><A5><A5>カミナ<A5><A5><A5>=Kamina?
-カミナじゃねえ、兄貴って呼べ！！=Don't call me Kamina, call|me “Bro”!
+カミナじゃねえ、兄貴って呼べ！！=Don't call me Kamina, call me|“Bro”!
 俺、兄弟いないから……=Um, I don't have any siblings,|so that's kind of...
 そういうことじゃねえ！=It's not about blood! We're soul
 魂のブラザー！=brothers, siblings of the spirit!
@@ -1682,11 +1682,11 @@
 お前の魂だよ！！=!
 それに……=We're the invincible Team Gurren!
 俺達ぁ、無敵のグレン団だ！=Nobody can stand in our way!
-ブスな女が何言おうが、=Don't worry about what those
-気にするな。=fugly chicks say.
+ブスな女が何言おうが、=Don't worry about what those fugly
+気にするな。=chicks say.
 シモン、村の見回りに行ってこい！=Go patrol the village, Simon!
-村の治安を守るのも=Protecting the peace here is
-グレン団の仕事だ！=the job of Team Gurren!
+村の治安を守るのも=Protecting the peace here is the
+グレン団の仕事だ！=job of Team Gurren!
 兄貴！！　兄貴ぃ！=Bro!! Hey Bro!!
 なんだ、どーした？　シモン=What's the rush, Simon?
 なんか、すごいの掘りあてたんだ！=I found something awesome!
@@ -1696,8 +1696,8 @@
 ………？？=.....??
 なんだぁっ！？=An earthquake!?
 村に異常はないか？=Anything unusual in the village?
-村の治安を守るのも=Protecting the peace here is
-グレン団の仕事だ！=the job of Team Gurren!
+村の治安を守るのも=Protecting the peace here is the
+グレン団の仕事だ！=job of Team Gurren!
 どっちかというと、兄貴は=If anything, Bro is the one who
 乱してることのほうが多いかな=causes the most trouble...
 !FILE:KAMI_002.SPC
@@ -2780,7 +2780,7 @@
 お腹空いちゃったわ…=come back?>>My stomach is growling...
 !FILE:MINI_01.SPC
 なんだこれ……！=Something’s there...!
-掘ってみよう！！=Let's dig it out!
+掘ってみよう！！=I should dig it out!
 何かあるぞ！？=What could it be!?
 画面のいろいろな=Touch the lower
 場所をタッチしよう！=screen to dig it out!
@@ -3791,7 +3791,7 @@
 ？？？？？？=???
 なんだろう？？？？=What is this??
 す、すげぇ！！=I-Incredible!!
-…………=..................
+…………=...
 カミナに……兄貴に=I have to tell Kamina!!
 知らせよう！！=!
 カミナに……兄貴に=I have to tell Kamina!!
@@ -4041,7 +4041,7 @@
 聞いてないぞっ！=anything like it!
 このまま=If this keeps up, it
 やられたままじゃ……=won’t end well...
-あたしの株…=My stock...#11
+あたしの株…=My stock...#tc Image MSW_C011”ギガンチョストップ安” will hit a gigancho-low stop price. 
 ……ここは=...This iz a
 いったん引いて=temporary retreat.
 作戦練り直さないと！=I need to rethink my|strategy.
@@ -6515,7 +6515,7 @@
 えへへ、そ、そうか？=Ehehe, t-that so?
 ………アホ=...Moron.
 …………はぁ=*...Sigh*
-…シモンにやらせよう=...I’ll leave this to Simon handle this.
+…シモンにやらせよう=...I’ll leave this to Simon handle.
 !FILE:SYS_076.SPC
 ニア…=Nia...
 お父様が地上の人間たちに=I heard many things from Kittan.
