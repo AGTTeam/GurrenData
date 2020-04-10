@@ -2209,8 +2209,8 @@
 あ～ら、カワイイ子ねぇ～♪=Oh, aren’t you a sweetieCUS(WAVE)♪
 あなた、お名前は？=What’s your name?
 シ、シモンだよ=I-It’s Simon.
-はーい、私はリーロンよ！=I’m Leeron, but you can call
-ロン、って呼んでね！=me Ron!
+はーい、私はリーロンよ！=I’m Leeron, but you can call me
+ロン、って呼んでね！=Ron!
 こっちのガンメン、この子も=This Gunmen is cute and handsome
 ハンサムでキュートだけど♪=to boot♪
 パイロットも負けずに=But, not as cute as it’s pilot♪
@@ -2221,8 +2221,8 @@
 このガンメン、可能性を感じる！=This Gunmen has great potential!
 ラガンって言うんだ=Bro named it Lagann.
 兄貴がつけた名前……=!
-兄貴……ああ！　ジーハ村から=Bro? ...Ah, that other cutie
-来たもう１人のナイスガイね！=who came from Giha village?
+兄貴……ああ！　ジーハ村から=Bro? ...Ah, that other cutie who
+来たもう１人のナイスガイね！=came from Giha village?
 今日はホントにステキなことが=There really are all sorts of
 たくさん起きる日だこと！=nice things happening today!
 ………=............
@@ -2254,8 +2254,8 @@
 ランダムなのが難点ねぇ……=end up at is chosen at random...
 ピンチから逃げて=You could end up out of the frying
 さらに大ピンチ！！！！=pan and into the fire!!
-…なんてこともあるかも=...Anything is possible,
-しれないわね、気をつけてね♪=so be careful♪
+…なんてこともあるかも=...Anything is possible, so be
+しれないわね、気をつけてね♪=careful♪
 タッチアクションがない=There’s no touch action, it
 オート発動の技だから便利よ！=activates automatically.
 このコ…ラガンの必殺技に=I’ll explain Lagann’s special
@@ -2285,8 +2285,8 @@
 ランダムなのが難点ねぇ……=end up at is chosen at random...
 ピンチから逃げて=You could end up out of the frying
 さらに大ピンチ！！！！=pan and into the fire!!
-…なんてこともあるかも=...Anything is possible,
-しれないわね、気をつけてね♪=so be careful♪
+…なんてこともあるかも=...Anything is possible, so be
+しれないわね、気をつけてね♪=careful♪
 タッチアクションがない=There’s no touch action, it
 オート発動の技だから便利よ！=activates automatically.
 この子、他のガンメンと動力源が=This baby’s power source seems to
@@ -4185,7 +4185,7 @@
 私のライフルも=He’s even managed to
 かわしちゃうの！！=dodge my rifle!!
 すぐにラガンで来て！=We need you here in|Lagann!
-わ、わかった！=G-got it!
+わ、わかった！=G-Got it!
 場所は近くの水場だ！=They’re by the water!
 気をつけていけ！=Be careful!
 なかなかやるな=You fight well...
@@ -4469,7 +4469,7 @@
 !FILE:SYS_023.SPC
 おら！！！=Oh yeah!!!
 どうだ、一等賞だぜぇ！！=See that, I won first place!!
-ぬ、ぬぬぅ～～=G-grrr...
+ぬ、ぬぬぅ～～=G-Grrr...
 このザウレッグがぁ～～…=Zaolegg was...
 ………=......
 仕方ない、俺様の負けだ…=Guess I just have to accept it.|I lost...
@@ -5332,7 +5332,7 @@
 ああ、その通りだ=Yeah, you bet we are.
 わかってんだったら=If you understand that much, then
 素直にこっちによこせっ！=you should quietly give over!
-そうはいかん=That's not going to happen.#tc (following section, up to Ziggitalis exit)
+そうはいかん=No can do.#tc (following section, up to Ziggitalis exit)
 人質としてあずからせてもらう=You’ll have to take us hostage.
 人質！？=Hostage!?
 おうおうおう！=Hey hey hey!
@@ -5346,7 +5346,7 @@
 やかましいわ！！=Shut your trap!!
 キサマに言われんでも=I don’t want to hear that from
 らしくないことくらい=you.
-自分でわかっとるんじゃー！！=We can take care of ourselves!!
+自分でわかっとるんじゃー！！=I feel that myself!!
 次は…負けん=Next time... prepare to taste
 覚悟しておけ！=your defeat!
 行くぞティトリー=Let’s go, Tetori.
@@ -6179,7 +6179,7 @@
 ごきげんよう=Hail fellow well met!
 ご、ごき、ごきげん？=H-Ha-hail fellow...?
 あなたはどなた？=Who are you good sir?
-ど、どな、どなたって=G-goo-good sir?
+ど、どな、どなたって=G-Goo-good sir?
 そんな立派なもんじゃ=Hardly...
 あ！　ここは外ですね！？=Ah! This is the outside, isn't it?
 私はニア　あなたのお名前は？=My name is Nia. What is yours?
@@ -8665,8 +8665,8 @@
 よし……行くぜっ！！=All right... Here we go!!
 !FILE:SYS_221.SPC
 へ、ちったぁやるじゃねぇか！=Heh, is that all you’ve got?!
-あの目…エネルギータンク=Those eyes... looks like it's
-のような…もの？=an energy tank... perhaps?
+あの目…エネルギータンク=Those eyes... looks like it's an
+のような…もの？=energy tank... perhaps?
 赤くなったら急に=When they turned red, it’s power
 パワーが上がったわ！=suddenly increased.
 ち…やはり単体でのレッドアイは=Tch... So using red eye really does
