@@ -1497,7 +1497,7 @@
 お前がやれ=You pilot it.
 ……=...
 えーー！=Huh-?! Come on,
-無理だよう！！=I can't do this!
+無理だよう！！=there’s no way I--!
 うわわ！=Agh!
 もう、来ちゃった！？=It's already caught up!?
 バカ野郎！！　無理を通して=Dumbass! Reject common sense
@@ -3776,12 +3776,12 @@
 そして俺は=I just dig holes, because I'm
 穴を掘るだけの『穴掘りシモン』だ=“Simon the Digger”.
 !FILE:SYS_003.SPC
-ここが、今俺が掘っている穴だ=This the tunnel I’ve been digging|recently.
+ここが、今俺が掘っている穴だ=This is the tunnel I’ve been|digging recently.
 今日もがんばって掘らないと……=I have to give it my all today|too...
 地震で俺の親は死んだ=My parents died in an earthquake.
 ７つのときだった=It happened when I was seven.
 こうやっていくら穴を掘ったって=No matter how many holes I dig,
-いつか、俺も、村長も……=the ceiling is gonna’ fall in...
+いつか、俺も、村長も……=the ceiling is gonna fall in...
 村のみんなも天井が=and crush me and everybody in the
 落ちてきてつぶされて死ぬんだ=village, and we're all gonna die.
 それが………=That's a given.
