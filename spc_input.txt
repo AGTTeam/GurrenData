@@ -2359,7 +2359,7 @@
 機体に大ダメージを負ってしまう！=unarmoured part,>>you’ll suffer a large amount of|damage!
 いざ！　…という時に使うことね！=Got that?
 近距離の敵に有効よ！=Save it for an emergency!>>It’s effective against short-range|enemies.
-一時的にグレンの機動力をＵＰ=It’s technique to temporarily
+一時的にグレンの機動力をＵＰ=It’s a technique to temporarily
 させるオート発動技よ！=boost Gurren’s mobility.
 普段の動きの１．５倍くらいの=It’ll allow you to move at 1.5x
 スピードで動けるようになるわ！=Gurren’s normal speed.
