@@ -262,7 +262,7 @@
 言ってきかないんだ…=“Beastman”...
 たしかに、人にしちゃ=She did seem to have a lot of
 毛深いような…=hair for a human...
-ぶみ=Bumi.
+ぶみ=Byui.
 しかし、獣人はなぜか夜は=But the Beastmen are quiet at
 おとなしくしている=night for whatever reason...
 そういう意味では獣人ではないと=So maybe we could tell by that
@@ -2462,7 +2462,7 @@
 ……うん！=...Got it!
 カスタマイズかぁ…なんだか=Customisations, huh...? 
 すごいことになってきたぞ！= >>I feel like you could do some|amazing things with this!
-ぶぅみぶみ！=Buumi, bumi!
+ぶぅみぶみ！=Byuui, byui!
 !FILE:LEER_007.SPC
 早くしないと！=We have to hurry!
 兄貴が！　兄貴が！！=Bro is--! Bro-!!
