@@ -1865,7 +1865,7 @@
 け！　言うじゃねぇか！=Heh! That goes without saying!
 さすがは俺の弟分だ！！= >>I’d expect nothing less from my|little brother!!
 あ、あははは…=A-Ah ha hah...
-ん、腹減ったな、飯はまだか！？=Hm, I’m hungry.|I wonder if there’s anything left?
+ん、腹減ったな、飯はまだか！？=Hm, I’m hungry. I wonder|if there’s anything left?
 ぶぃ☆=BuiiCUS(STAR)
 !FILE:KAMI_008.SPC
 本当のところ、兄貴は=Bro, is that honestly what you
