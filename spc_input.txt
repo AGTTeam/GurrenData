@@ -1856,7 +1856,7 @@
 な！　シモン！=Okay, Simon?
 !FILE:KAMI_007.SPC
 あのデカ獣人、口ぶりからすると=From the way that big-ass Beastmen
-また来やがるな=was talking...>>it sounds like he’s going to come|again.
+また来やがるな=was talking...>>it sounds like he’s going to come|here again.
 そうだろうね=You’re right.
 ま、来るなら来いだ=Well, if he does come, I’ll turn
 叩き潰してやるぜ！=him into mincemeat!
