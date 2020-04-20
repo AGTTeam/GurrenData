@@ -2437,7 +2437,7 @@
 !FILE:LEER_005.SPC
 あら、シモン=Oh, Simon!
 リーロン…今日も整備？=Leeron... Are you working on|maintenance again today?
-もちろんよ！=Of course! Tinkering with mecha’s
+もちろんよ！=Of course! Tinkering with mechas
 メカいじりは私の生き甲斐だもの！=is what I live for!
 とくに、グレンラガンになってから=And since you formed Gurren Lagann
 楽しくて仕方ないわ！=it’s been particularly fun.>>I just can’t help myself!
