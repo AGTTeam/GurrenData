@@ -9093,8 +9093,8 @@
 男にはやらなければならない時が=There are times when a man has
 あるものよ=to do what a man has to do.
 さておき…=But, setting that aside...
-今日は必殺技の同時攻撃数に=Today, I’ll explain about
-ついて説明するわ=simultaneous attacks.
+今日は必殺技の同時攻撃数に=Today, I’ll explain about multi-
+ついて説明するわ=target attacks.
 もう何度か戦闘に出てるから=You’ve already fought in several|battles...
 必殺技にはそれぞれ、敵をまとめて=So you know that special moves
 ロックオンできる数が決まってるわ=have a max number of targets.
