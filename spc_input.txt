@@ -1571,7 +1571,7 @@
 許可されました！=!
 おめでとうございます！=Congratulations!
 !FILE:GIDA_001.SPC
-あ、天上人だ！=Ah, the Celestials!
+あ、天上人だ！=Ah, the Celestians!
 え、え～～と………=Uh, ummm...
 顔神様の使いなの？=Are you messengers of the Face God?
 顔神様？？　ああ=The Face God??
@@ -3445,7 +3445,7 @@
 も、もしかして、このコ達が…=T-Then you don’t mean, these|children...
 天上の国へ送り出されます=They will be sent to Celestial
 僕の母がそうであったように……=Lands, as my mother was...
-そこで、天上人であるあなた達に=So, as Celestials, we ask that you
+そこで、天上人であるあなた達に=So, as Celestians, we ask that you
 このコ達を連れて…=take these children with you...
 ふざけんな！！=Don’t screw with me!!
 地上がどんなところか知りも=You have no idea what the surface
@@ -5177,7 +5177,7 @@
 有り難がってまつってるなんて=You won’t get anything out of
 おめでたくて涙が出てくる！=worshipping that thing!
 ………=...
-天上人とは、思いのほか=I did not expect Celestials to
+天上人とは、思いのほか=I did not expect Celestians to
 下品な物言いをするようだ……=be so coarse...
 それに…=Then again...
 若干、ハレンチでもあるようです=It seems they have no notion of|shame, either.
