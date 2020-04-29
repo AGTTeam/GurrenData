@@ -2768,7 +2768,7 @@
 ………=...
 !FILE:LERO_001.SPC
 え？　あのコ達が食料を？=Huh? They’ve gone for food?
-うん、この辺は詳しいからって=Yeah, coz they said they know this|place well.
+うん、この辺は詳しいからって=Yeah, cuz they said they know this|place well.
 そう…ま、大丈夫だとは思うけれど=I see... Well they should be fine,
 あれだけ爆弾の扱いになれてるなら=they’re used to using bombs.
 そうかもしれないけど…=That might be true, but still...
