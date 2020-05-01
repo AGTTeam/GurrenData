@@ -3436,7 +3436,7 @@
 実際貧しい村です、アダイ村は…=is that Adai Village is poor...
 ね、お兄ちゃんたち=Hey, you came from the Celestial
 天上の国から来たの！？=Lands, right!?
-顔神様の使いなの？=Are you messengers of the Face God?
+顔神様の使いなの？=Are you messengers of|the Face God?
 ……このコ達は？=...These children are...?
 『５０人を超えたら=“If the village's population
 　天上の国へ送り出す』=exceeds 50 people...>>some must be chosen to leave for|the Celestial Lands.”
