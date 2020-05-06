@@ -2506,8 +2506,8 @@
 まぁいいじゃん！=Nothing wrong with that!
 しっぽはもう乾いた？=Is your tail dry already?
 乾いた乾いた☆=Yeah it’s fineCUS(STAR)
-んじゃ、しゅっぱーつ！=So, let’s goo!
-しゅっぱーつ！=Let’s goo!
+んじゃ、しゅっぱーつ！=So, let’s gooo!
+しゅっぱーつ！=Let’s gooo!
 しゅっぱーーーつ！=Let’s goooo!
 おんせん？=A hot spring?
 地中深くにある=There’s hot water deep underground.
