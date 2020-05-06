@@ -2529,7 +2529,7 @@
 そこで、今まで戦ってきた=So, I’d like you recall all the
 戦闘ステージを思い出してほしいの=battles you’ve faced until now.
 ……思い出す？=...Recall them?
-『バトル・トレーニング』！=“Battle Training”!
+『バトル・トレーニング』！=“Battle Training!"
 私特製の戦闘データ集積システム！=My special battle data collection|system!
 シモンの脳波から=Using your brain waves, I can
 戦闘ステージを再現できるの=recreate battlefields.
