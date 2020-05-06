@@ -5260,7 +5260,7 @@
 !FILE:SYS_043.SPC
 だーーー！=Urk---!
 なんなんだ、あいつら！=The hell are these things!?
-チョロチョロうっとおしいぜ！=They just kept scampering around|so I had trouble hitting em!
+チョロチョロうっとおしいぜ！=They just kept scampering around|so I had trouble hitting 'em!
 すばしこかった…=They really are fast...
 お疲れ様！=Good job!
 大変だったわね…でも=It was tough work... but I also
