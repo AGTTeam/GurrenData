@@ -2533,7 +2533,7 @@
 私特製の戦闘データ集積システム！=My special battle data collection|system!
 シモンの脳波から=Using your brain waves, I can
 戦闘ステージを再現できるの=recreate battlefields.
-そこから、とりこぼした必殺技の=And there, I can even synthesise
+そこから、とりこぼした必殺技の=And there, I can even synthesize
 パーツも復元できるから…=moves that you missed...#tc
 どう、やってみる？=So, how about it?
 バトルトレーニングする？=Are you up for some battle|training?
