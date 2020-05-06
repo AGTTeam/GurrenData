@@ -5207,7 +5207,7 @@
 いいえ=<<No
 !FILE:SYS_039.SPC
 しっかし進みが遅いわね！=Still, that took us a long time|to get on the move again!
-大所帯になったからなぁ=That’s coz we’re a large family|now.
+大所帯になったからなぁ=That’s cuz we’re a large family|now.
 ど～～も～～～♪= WhyCUS(WAVE)CUS(WAVE)thankCUS(WAVE)CUS(WAVE)youCUS(WAVE)CUS(WAVE)♪
 お世話になります……=Thanks for your help...
 大勢のほうが楽しいじゃん☆=The more the merrierCUS(STAR)
