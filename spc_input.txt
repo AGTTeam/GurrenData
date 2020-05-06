@@ -5206,7 +5206,7 @@
 はい=<<Yes
 いいえ=<<No
 !FILE:SYS_039.SPC
-しっかし進みが遅いわね！=Still, that took us a long time|to get on the move again!
+しっかし進みが遅いわね！=Still, it took us a long time|to get on the move again!
 大所帯になったからなぁ=That’s cuz we’re a large family|now.
 ど～～も～～～♪= WhyCUS(WAVE)CUS(WAVE) thankCUS(WAVE)CUS(WAVE) youCUS(WAVE)CUS(WAVE)♪
 お世話になります……=Thanks for your help...
