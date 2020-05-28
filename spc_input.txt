@@ -2129,11 +2129,11 @@
 イヤな予感がするぜ！=I have a funny feeling about this.
 !FILE:KIYO_001.SPC
 ヨーコとカミナって…=Yoko and Kamina... I wonder if
-やっぱり好き同士なのかしら？=they are in love after all?
+やっぱり好き同士なのかしら？=they're in love after all?
 さっき、２人で楽しそうに狩りに=The two of them looked like they
 出かけて行ったから……=were having a lot of fun...>>when they went out to hunt a|while back.
 う、うん……=R-Right...
-やりきれないわねぇ、どうにも…=It’s unbearable, right?>>But, there’s nothing we can do|about it.
+やりきれないわねぇ、どうにも…=It’s hard, isn't it?>>But there’s nothing we can do|about it.
 ………=...
 !FILE:KKK_001.SPC
 え？　ニアが？=Huh? Nia is?
