@@ -3486,7 +3486,7 @@
 !FILE:ROSI_003.SPC
 シモンさん…先ほどカミナさんに=A little while ago, I asked Kamina
 獣人について話をうかがいましたよ=to tell me about the Beastmen.
-兄貴に？=You heard from Bro?
+兄貴に？=Bro told you?
 ええ、確か……=Yes, as I recall...
 獣人ってのは、そもそも何だ？=What are “Beastmen,” even?
 答える義務はないな、人間=I’ve no obligation to answer you,|Human.
