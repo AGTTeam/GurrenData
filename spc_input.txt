@@ -1544,7 +1544,7 @@
 エキストラステージ４=<<Extra Stage 4
 エキストラステージ５=<<Extra Stage 5
 !FILE:GETSKIL1.SPC
-『男のブーメラン』=“A Man’s Boomerang”, 
+『男のブーメラン』=“A Man’s Boomerang”,
 『燃える男の火の車キック』=“Raging Man’s Desperate Kick”...
 『怒れる男の火の車キック』=“Fuming Man’s Desperate Kick”,
 『孤独な男も火の車キック』=“Lonely Man’s Desperate Kick”...
@@ -2460,7 +2460,7 @@
 私もグレンラガンにどんな兵装を=I’ll stay up all night thinking
 させるか、徹夜で考えちゃう☆=about what kind of weapons...>>we might want to add to Gurren|LagannCUS(STAR)
 ……うん！=...Got it!
-カスタマイズかぁ…なんだか=Customisations, huh...? 
+カスタマイズかぁ…なんだか=Customisations, huh...?
 すごいことになってきたぞ！= >>I feel like you could do some|amazing things with this!
 ぶぅみぶみ！=Byuui, byui!
 !FILE:LEER_007.SPC
@@ -2762,7 +2762,7 @@
 ダイグレンの=Checking on Dai-Gurren’s self-
 自爆装置の確認よ=destruction sequence.
 自爆装置！？=Self-destruction!?
-もし、ダイグレンの爆発でしか=For example, if there was an enemy 
+もし、ダイグレンの爆発でしか=For example, if there was an enemy
 突破できないような敵だったら…=we could only overcome...>>by blowing up Dai-Gurren...
 万一に備えてよ=We need to be prepared for every|possibility.
 ………=...
@@ -3516,14 +3516,14 @@
 それが俺達グレン団なんだよ！=the impossible possible!
 石ころが地面に落ちることが=That's the way Team Gurren rolls!
 道理だったとしても…=!
-……………=Even if there’s a reason why|the stone falls to the ground...
+……………=[]Even if there’s a reason why|the stone falls to the ground...
 関係ねぇ！=It doesn’t matter!
 そんなことが=That’s what happened in Littner
 リットナー村であったと…=Village...
 ………へぇ………=...Hm...
 なぜ徒党を組んで襲ってくるのか…=Why are there squadrons attacking
 組織はいったいどうなっているのか=us?>>What exactly is that organisation|after?
-人間を駆逐すること…それが=The total annihilation of humans... 
+人間を駆逐すること…それが=The total annihilation of humans...
 獣人にとってどんな意味があるのか=What reason could they have?
 わかりません……=I don’t get it...
 そうだな…=Me either...
@@ -4041,7 +4041,7 @@
 聞いてないぞっ！=anything like it!
 このまま=If this keeps up, it
 やられたままじゃ……=won’t end well...
-あたしの株…=My stock...#tc Image MSW_C011”ギガンチョストップ安” will hit a gigancho-low stop price. 
+あたしの株…=My stock...#tc Image MSW_C011”ギガンチョストップ安” will hit a gigancho-low stop price.
 ……ここは=...This iz a
 いったん引いて=temporary retreat.
 作戦練り直さないと！=I need to rethink my|strategy.
@@ -5132,7 +5132,7 @@
 こっちも悪いんだし……=suddenly dropped in on them...
 そうよ、見たところ貧しい=Right, it seems like this place is
 みたいだし…大人しくしてましょ=suffering from poverty...>>We should behave ourselves.
-でも、この大空洞…どうやって=But, this really is a large cavern. 
+でも、この大空洞…どうやって=But, this really is a large cavern.
 できたのかしらね、フシギ♪=I wonder how it was made♪
 どこに来ても、なんにでも興味=No matter what comes, you’re always
 もつわね、ロン……=curious, Ron...
@@ -5573,7 +5573,7 @@
 !FILE:SYS_052.SPC
 はぁ…はぁ…！=*Huff... huff...!*
 だ…だめだ…=I...it’s no use...
-ラガンが思うように=Lagann’s not moving 
+ラガンが思うように=Lagann’s not moving
 動いてくれない…！=the way I want it to!
 艦の…コントロールが=The controls...
 効かない！=aren’t working!
@@ -5716,7 +5716,7 @@
 不服か？=You do not approve?
 螺旋王こそ=Spiral King, you...
 絶対の創造主にして=are the immortal
-この世界の=creator of this 
+この世界の=creator of this
 全てを治める王=world...>>who rules over all|within it.
 そのご判断に=I haven't the
 逆らう心など=slightest intention
@@ -6700,7 +6700,7 @@
 ん？=Hm?
 ありがとう！=Thank you!
 ……（にこにこ）=...(*Smile*)
-んと…=Ah...       
+んと…=Ah...
 ……（にこにこ）=...(*Smile*)
 ……（にこにこ）=...(*Smile*)
 まったくもぅ…でも、シモン=Honestly... But, it seems you’ve
@@ -7242,7 +7242,7 @@
 !FILE:SYS_097.SPC
 テッペリンまで、あとわずかですね=We’re not far from Teppelin now.
 そうだな=You’re right.
-アダイ村にいたころが=It feels like it’s been a lifetime 
+アダイ村にいたころが=It feels like it’s been a lifetime
 遠い過去のような気がしますよ=since I lived in Adai Village.
 うん……=Yeah...
 そうだな……=I know how that feels...
@@ -7363,7 +7363,7 @@
 つけたいのなら…=things with me...
 後からいくらでも=We can spend all the
 相手をしてやる！！！=time in the world...>>once this is over!
-ふざけるな！=Don’t screw with me!       
+ふざけるな！=Don’t screw with me!
 螺旋王とまみえたくば=If you want to face
 俺を倒すことだ！=the Spiral King,>>you’ll have to go|through me first!
 グレンラガンの=Is Gurren Lagann in
@@ -7450,7 +7450,7 @@
 ニア……！=Nia...!
 そんなにドリルが好きか…=You’re that fond of drills...?
 ならば……=In that case...
-このラゼンガンのドリルに貫かれて=You can die from being pierced 
+このラゼンガンのドリルに貫かれて=You can die from being pierced
 死ぬが良い！！！！！！！=through by Lazengann’s drill!!
 お、お父様………！！=F-Father...!
 こ、これは……！！=T-This is...!
@@ -7848,7 +7848,7 @@
 月面調査報告です=Bureau Chief Leeron’s research...>>into the moon’s surface.
 １００万匹の猿が=When the land comes to overflow
 この地に満ちた時=with a million apes,
-月は地獄の使者となりて=the moon shall become Hell's 
+月は地獄の使者となりて=the moon shall become Hell's
 螺旋の星を滅ぼす=messenger...>>and destroy the world of the|Spiral.
 これがロージェノムが=Those were Lordgenome's dying
 最後に残した言葉だ=words.
@@ -8187,7 +8187,7 @@
 お前にあったら一言、いや二言=If you’re around, I’ll never be
 くらいは言いたい事があった…=short of things to say...
 饒舌（じょうぜつ）にもなるさ！=It’s only natural to be talkative!#tc
-……そうか=...I see. I on the other hand 
+……そうか=...I see. I on the other hand
 こちらは多分寡黙だ=should probably keep mouth shut.
 話し相手になれそうにないな=Sorry I can’t be your conversation
 すまないことだ…=partner...
@@ -8206,7 +8206,7 @@
 気がたって仕方ないぜ…=in this cramped space...
 ロシウ！！　てめぇ！！=Rossiu!! What the hell are you
 何様のつもりだ！=doing, lording it over us!?
-何様でもありません=I’m not lording over anyone. 
+何様でもありません=I’m not lording over anyone.
 僕はこの新政府の総司令補佐官…= >>I am the Supreme Commander’s Chief|Advisor.
 あの人にはわからない…７年間…=That person doesn’t understand...
 変わろうとしなかったあの人には…= >>For seven years... He hasn’t even|tried to change...
@@ -8245,7 +8245,7 @@
 どうもこうもない=It’s not what you think.
 逃亡の防止=We are not just preventing your
 特攻による英雄への昇華を防止=escape,>>but stopping you from trying to|go out blaze of heroic glory.
-戦争責任はしっかり=You will take responsibility and 
+戦争責任はしっかり=You will take responsibility and
 償ってもらう…それだけです=atone once you return...>>That is all there is to it.
 ………！！！=...!!!
 シモンさん…=Simon...
@@ -8296,7 +8296,7 @@
 ……ロシウ…=...Rossiu...
 つまらんな=This stinks. To think THIS is how
 こんな形でお前の最期を見るとは=I'm going to witness your death.
-俺ならいい=I'm fine with it. As long as the 
+俺ならいい=I'm fine with it. As long as the
 他の連中が生き残れるならそれで=others survive it’s fine with me.
 それはどうでしょう=FIX(121)I wouldn't be so|sure.
 お前……=You’re...
@@ -8478,7 +8478,7 @@
 月の内部は、おそらく=The moon’s construction is probably
 このアークグレンと同じ構造よ=just like the Arc-Gurren’s.
 グレンラガンで突入しろ、と？=So we bust in there with Gurren|Lagann?
-そうよ、最深部まで行って、月…=Right, if you head into the deepest 
+そうよ、最深部まで行って、月…=Right, if you head into the deepest
 カテドラル・テラを制御するのよ！=part, the moon-->>The Cathedral Terra will come under|your control.
 あれも螺旋王の物だったのか=It belonged to the Spiral King once
 よし………行くぜっ！！=too, huh? All right... Let’s go!!
@@ -8599,7 +8599,7 @@
 だ、そうよ=R-Right.
 そこに『ある』と分かることが=Once we’ve realised that something
 できるならばそれはそこに『ある』=is “there”,>>it therefore becomes possible for|it to be “there”.
-逆に『ある』と分からなければ=And contrarywise, if something is 
+逆に『ある』と分からなければ=And contrarywise, if something is
 ず～っとそれはそこに『ない』=not understood to be “there”,>>then it’ll continue to “not be”.
 わかりやすく言えば=It’s pretty easy to understand if
 そういうことね！=you think of it like that!
@@ -8621,7 +8621,7 @@
 理屈はどうあれ、わかった以上=Who cares about the explanation!
 行けばいいだろうが！= >>We know where it is, so we're|going.
 それが大グレン団だろう！？=Isn’t that how Team Dai-Gurren does|things!?
-その通り！　一度認識した=Precisely! 
+その通り！　一度認識した=Precisely!
 次元座標ならば、一瞬で転移可能<20>= >>With a fixed set of perceptual|dimensional coordinates,>>instantaneous teleportation is|possible.
 それが螺旋界認識転移システム=That’s how the Spiral Perceptual|Teleportation System works.
 相手を認識すれば、その瞬間=If you think of someone, it will
@@ -8638,7 +8638,7 @@
 なるほど……！=I see... That works!
 カテドラル・テラよりも=It's a much better fit for you
 ずっとお前達らしい！=people than “Cathedral Terra”.
-エンジン全開！=Engines to full! 
+エンジン全開！=Engines to full!
 螺旋界認識転移システム作動！= >>Spiral Realm Perceptual|Teleportation System, activate!
 行くぞ…=Let's go...
 最後の戦いだ！！！=This is our final battle!!!
