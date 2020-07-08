@@ -5320,7 +5320,7 @@
 いいだろう、かかってこい=Very well. Bring it on!
 人間！！！=Humans!!
 シ…シモン！！=S-Simon!
-やるしか…ないのかよ！！=Looks like... we don’t have a|choice!!
+やるしか…ないのかよ！！=Looks like we don’t have a choice!!
 !FILE:SYS_045.SPC
 ………=.........
 あ……=Ah...
