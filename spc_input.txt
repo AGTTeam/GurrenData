@@ -5487,8 +5487,8 @@
 おう！　末っ子！！=Hey, lil' bro! You
 元気ねぇな！=seem to be well!
 キタン！！=Kittan!!
-なんだ、お前ら！=What’s up with that!?
-俺の真似しやがって！=Are you copying me!?
+なんだ、お前ら！=What’s up with that|Gunmen!?
+俺の真似しやがって！= >>Are you copying me!?
 真似してるん=I wasn’t really
 じゃねえぞ=trynna’ imitate you.
 お前にやれるなら、=But, since you|managed it...
