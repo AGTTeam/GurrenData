@@ -652,8 +652,8 @@
 人間と言ったら人間だ！=<<You’re Human!
 リットナーのために働け=<<Play Your Part!
 顔が二つたぁナマイキな=<<Two-Faced Bastard!
-明日は決戦だ！１=<<The Final Showdown! 1
-明日は決戦だ！２=<<The Final Showdown! 2
+明日は決戦だ！１=<<Tomorrow Is... 1
+明日は決戦だ！２=<<Tomorrow Is... 2
 目が真っ赤だぞ！１=<<Bright Red Eyes! 1
 目が真っ赤だぞ！２=<<Bright Red Eyes! 2
 男と男の真剣かけっこ！=<<A Serious Race!
