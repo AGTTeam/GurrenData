@@ -5331,8 +5331,8 @@
 ……な！？=...Wha-!?
 ああ、その通りだ=Yeah, you bet we are.
 わかってんだったら=If you understand that much, then
-素直にこっちによこせっ！=you should quietly give over!
-そうはいかん=No can do.#tc (following section, up to Ziggitalis exit)
+素直にこっちによこせっ！=you should quietly give up! #tc (Whether this means give up or give yourselves up, like join us)
+そうはいかん=That's not gonna happen. #tc (following section, up to Ziggitalis exit)
 人質としてあずからせてもらう=You’ll have to take us hostage.
 人質！？=Hostage!?
 おうおうおう！=Hey hey hey!
