@@ -885,7 +885,7 @@
 アークグレン=
 閉じ込められた部屋=
 !FILE:DEB_SEL.SPC
-シナリオデバッグです♪=This is the chapter debugger♪
+シナリオデバッグです♪=This is the scenario debugger♪
 どこから開始しますか？=Where would you like to start?
 穴掘りシモン=<<Simon The Digger
 いざ地上へ=<<To The Surface
