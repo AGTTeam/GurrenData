@@ -519,7 +519,7 @@
 その時間がねえ=we’re outta time.
 なんとか退けた=We’ve gotta stop that
 化け物ガンメン=huge Gunmen somehow.
-ダイガンザン=That Dai-Gunzen...
+ダイガンザン=That Dai-Gunzan...
 明日には=You can bet it’ll
 動き出しそうだ=be back tomorrow...
 でだ=And I’ve come up with
@@ -529,7 +529,7 @@
 こうやって野宿する=It’s ridiculous that
 のも馬鹿馬鹿しい=we’re still sleeping>>outdoors like this.
 あのダイガンザンを=So, I say we steal
-のっとっちまおうぜ=Dai-Gunzen from them!
+のっとっちまおうぜ=Dai-Gunzan from them!
 明日からあれが=After tomorrow...
 俺達のネジロだ= >>it's gonna be our|headquarters.
 イカシてるだろうが！=Pretty sweet, huh?!
@@ -623,7 +623,7 @@
 山道　２=<<Mountain Path 2
 アダイ村=<<Adai Village
 戦艦：ダイグレン=<<Battleship: Dai-Gurren
-戦艦：ダイガンザン=<<Battleship: Dai-Gunzen
+戦艦：ダイガンザン=<<Battleship: Dai-Gunzan
 戦艦：ダイガンカイ=<<Battleship: Dai-Gunkai
 戦艦：アンチスパイラル艦=<<Anti-Spiral Ship
 未定？=<<TBD
@@ -2087,7 +2087,7 @@
 !FILE:KITA_005.SPC
 ああ、一応言っておく=Ah, just to tell you...
 この艦の名前は=It seems this battleship’s name
-『ダイガンザン』だったらしいが=was “Dai-Gunzen”.
+『ダイガンザン』だったらしいが=was “Dai-Gunzan”.
 今日から『ダイグレン』だ=But from now on, it’s “Dai-Gurren”.
 ………=...
 ヨーコがどうしてもって=Yoko insisted that we give it
@@ -5706,7 +5706,7 @@
 ダイガンクウと=Together with Dai-
 遊撃隊を与える=Gunku...>>and the Search-and-|Destroy Squadron...
 行け　ダイガンザンを=Recapture
-奪還せよ=Dai-Gunzen.
+奪還せよ=Dai-Gunzan.
 は！=Wha-!?
 ………=...
 この若造に！？=This greenhorn!?
@@ -6455,7 +6455,7 @@
 !FILE:SYS_075.SPC
 ほう、ニアが=Ho, Nia, huh?
 ダイガンザンに……=!
-して、何とした？=And what is she doing|aboard Dai-Gunzen?
+して、何とした？=And what is she doing|aboard Dai-Gunzan?
 は、そのまま=As it is, she will
 殉じろ、と=become a martyr.
 ふむ……=Hm...
@@ -7017,7 +7017,7 @@
 愚問だな…=A foolish question...
 これ以上ないくらい=This ends here.
 愚問だ！=I’ll answer you only this once!
-ダイガンザンの奪還=I will recover Dai-Gunzen and
+ダイガンザンの奪還=I will recover Dai-Gunzan and
 及び人間の殲滅…=eradicate the humans...
 ロージェノム様の=as Lordgenome has commanded me!!
 勅命だよ！！=!
@@ -7028,7 +7028,7 @@
 あきれたものだ=Astounding.
 ……人間といると物言いも=Just from being with humans, your
 低俗になると見える……=speech has become quite vulgar...
-ダイガンザン、返してもらうぞ！=I’ll have you return Dai-Gunzen!
+ダイガンザン、返してもらうぞ！=I’ll have you return Dai-Gunzan!
 これは私達のお家です！=This is our home!
 絶対にわたしません！=We’ll never surrender it to you!
 !FILE:SYS_088.SPC
@@ -7629,7 +7629,7 @@
 何を！！　貴様ごときの指図を！=What!? You son of a bitches are|ordering ME--!?
 口をひかえられよ！=Hold your tongue!
 これより先は私が=From this point onwards, I’m the
-ダイガンザン進行阻止の任に就く=one in charge.>>I will stop Dai-Gunzen’s advance|in it’s tracks.
+ダイガンザン進行阻止の任に就く=one in charge.>>I will stop Dai-Gunzan’s advance|in it’s tracks.
 ………っく！！=...Urgh!!
 !FILE:SYS_109.SPC
 やはり…ただの砲撃で=As I thought...
