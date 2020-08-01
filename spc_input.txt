@@ -481,7 +481,7 @@
 すぐに覚えられると思うぜ！=think you should have no trouble>>memorizing their names!
 キッド！=Kid!
 アイラック！=Iraak!
-アーテンボロー！=Aretenborough!
+アーテンボロー！=Artenborough!
 ジョーガン！=Jorgun!
 バリンボー！=Balinbow!
 ゾーシィ！=Zorthy!
@@ -801,7 +801,7 @@
 ロージェノム=Lordgenome
 キッド=Kid
 アイラック=Iraak
-アーテンボロー=Aretenborough
+アーテンボロー=Artenborough
 ジョーガン=Jorgun
 バリンボー=Balinbow
 ゾーシィ=Zorthy
