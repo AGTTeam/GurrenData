@@ -486,7 +486,7 @@
 バリンボー！=Balinbow!
 ゾーシィ！=Zorthy!
 マッケン！=Makken!
-テツカン！=Tetukan!
+テツカン！=Tetsukan!
 ガバル！=Gabal!
 レイテ！=Leyte!
 よし、覚えたか！？=Got it memorized!?
@@ -806,7 +806,7 @@
 バリンボー=Balinbow
 ゾーシィ=Zorthy
 マツケン=Makken
-テツカン=Tetukan
+テツカン=Tetsukan
 ガバル=Gabal
 レイテ=Leyte
 ギンブリー=Guinble
