@@ -5603,7 +5603,7 @@
 裸ザルめ！=You naked apes!
 このビャコウの前で=In the face of my Byakou...
 寄せ集めのカスタムガンメンに=What could you even hope to achieve
-何ができるというのだ！=with a mishmashed Custom Gunmen!?
+何ができるというのだ！=with a mishmashed custom Gunmen!?
 あ…にき？=B...ro?
 !FILE:SYS_053.SPC
 終わったよ！！=I’ve finished!!
@@ -7726,7 +7726,7 @@
 シモン……！！=Simon...!!
 グレンラガンの整備急いで！=I’ll hurry with Gurren Lagann’s|servicing!
 シトマンドラはおそらく=Cytomander is probably on his way
-カスタムガンメンで来るわ！=in a Custom Gunmen!
+カスタムガンメンで来るわ！=in a custom Gunmen!
 だろうなぁ……！=We can count on it...!
 シモン！！ダイグレンはまかせろ！=Simon!! Leave Dai-Gurren to us!
 近寄ったら撃っちまうかも、だぞ！=I’ll shoot at anything that dares
@@ -9232,7 +9232,7 @@
 全然知りません♪=I’ve never heard of you♪
 ふぉおおおおおおお！！！=Weeeeeeeeh!!!
 これでも一応カスタムガンメンを=Even now, I’m still in charge of
-預かる身なのですがぁあああ…=a Custom Gunmennnnnnnnn...
+預かる身なのですがぁあああ…=a custom Gunmennnnnnnnn...
 しくしく……=Boo-hoo-hoo...
 しくしく……=Boo-hoo-hoo...
 よしよし♪=There, there♪
