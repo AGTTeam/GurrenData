@@ -5732,7 +5732,7 @@
 ぬはぁ！=My eyes!
 アディーネ様！　何を…！=General Adiane! What are--!?
 何でこんなに早く=Why are you so quick to show your
-顔を出せるんだい！=face?
+顔を出せるんだい！=face again?
 さてはあたしをつけていたね！？=And on top of that, you’ve been|stalking me!?
 そんなことはないです=<<That’s not the case
 もちろんです=<<Of course
