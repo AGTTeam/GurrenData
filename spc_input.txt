@@ -1212,7 +1212,7 @@
 ………=...
 どした、しけた面=What’s with that
 しやがってよ！=look?
-あ…にき……？=B...ro......?
+あ…にき……？=Br...o......?
 なんだぁ？俺を=What?
 誰だと思ってやがる！= >>Just who the hell|do you think I am?!
 グレン団の…=Team Gurren’s...
@@ -5604,7 +5604,7 @@
 このビャコウの前で=In the face of my Byakou...
 寄せ集めのカスタムガンメンに=What could you even hope to achieve
 何ができるというのだ！=with a mishmashed custom Gunmen!?
-あ…にき？=B...ro?
+あ…にき？=Br...o?
 !FILE:SYS_053.SPC
 終わったよ！！=I’ve finished!!
 あとは………兄貴！！=Now all we need is... Bro!!
