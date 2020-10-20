@@ -5787,7 +5787,7 @@
 むばぁっ！！=Mmmph!
 まぁいい、お前もあの人間達に=Well, I suppose that’ll do.
 腹据えかねることがあるだろう= >>I know you can’t stomach those|humans either.
-あたし達はあたし達で出撃するよ=I will allow you to join our|sortie.
+あたし達はあたし達で出撃するよ=I will allow you to join our|assault.
 アディーネ様……=General Adiane...
 チミルフの弔い合戦だ=We shall avenge Thymilph!
 ついて来な！！=!
