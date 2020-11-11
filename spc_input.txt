@@ -5871,7 +5871,7 @@
 ……？=...?
 カミナがあなたのことを=Kamina said that to you.
 そう言ってたわ=!
-腹くくりなさい、シモン=You need to strengthen your|resolve, Simon.
+腹くくりなさい、シモン=You need to have stronger|resolve, Simon.
 ………=...
 ぶみぃぃ……=Byuuui...
 !FILE:SYS_060.SPC
