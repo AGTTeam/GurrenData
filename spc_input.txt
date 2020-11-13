@@ -9260,7 +9260,7 @@
 馬鹿シモンあっち行けっ！！=Stupid Simon, go away!!
 !FILE:TETO_008.SPC
 シモン……=Simon...
-あのジギタリスって獣人…=That Ziggitallis...
+あのジギタリスって獣人…=That Ziggitalis...
 君の何だったの？　親？=What was he to you? Family?
 ……親って何？=...Family? What’s that?
 何って……お父さんとお母さんの=“What”...? Like, your mother and
@@ -9270,8 +9270,8 @@
 誰から生まれるの？=The people who gave birth to you?
 何を言ってるのか=What are you talking about?
 全然わからないけど……=I really don’t follow...
-獣人は生まれるんじゃなくて=Beastmen aren’t born. We’re created
-螺旋王に創られるんだよ=by the Spiral King.
+獣人は生まれるんじゃなくて=Beastmen aren’t born. We’re
+螺旋王に創られるんだよ=created by the Spiral King.
 ？？？　らせん…おう？=??? The Spiral... King?
 創る？？=Created??
 親？？？=Parents???
