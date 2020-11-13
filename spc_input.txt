@@ -9275,8 +9275,8 @@
 ？？？　らせん…おう？=??? The Spiral... King?
 創る？？=Created??
 親？？？=Parents???
-らせんおう？=Spiral King?
-お互い話が見えないや……=We’re both as lost as each other...
+らせんおう？=Spiral King? We’re both as lost
+お互い話が見えないや……=as each other...
 !FILE:TETO_009.SPC
 ぷにぷに！　ぷにぷに！= Squishy!
 ぷににぷにに！=Squishy squish squish!
