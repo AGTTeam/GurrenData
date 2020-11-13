@@ -3559,7 +3559,7 @@
 俺が……=I...
 それが何だと言うのです=What point are you trying to make?
 …………ロシウ！=...Rossiu!
-反政府行動派の単なる獣人…=He is merely a Beastmen acting|against the government...
+反政府行動派の単なる獣人…=He is merely a Beastman acting|against the government...
 そんな者の駆逐に総司令自ら=For the Supreme Commander himself
 出撃するなど…=to deal with such a thing...
 馬鹿げているにも程がある！=does nothing but make us look weak!
@@ -6033,7 +6033,7 @@
 ………=...
 さて、と=Right then...
 これから…どうするの？=What are you going to do now?
-見ての通りあたしは獣人…=As you saw, I’m a Beastmen...
+見ての通りあたしは獣人…=As you saw, I’m a Beastman...
 人間もいっぱいやっつけてきたし=I’ve attacked many humans.
 もう…ここにはいられない=I... can’t stay here anymore.
 …そう=...I see. In that case, we’ll drop
@@ -6047,12 +6047,12 @@
 あんたのこと=I don’t hate you.
 ……………うん！=...Mew!
 ありがと！=Thankz!
-みんなーー！=Everyoneeee!
+みんなーー！=Everyonnnne!
 ありがとーーー！=Thank youuuuu!
 今まで=I kept quiet about it
 黙ってたけどーー！=until now, buuuut--!
 実はワタクシ……=I’m actually...
-獣人でしたーー！=A Beastmeeeen!
+獣人でしたーー！=A Beastmaaaan!
 へーそいつは=Heh. I had no idea.
 しらなかったなー=!
 こりゃ=What...
@@ -6068,12 +6068,12 @@
 あんなに尻尾ふって♪=it waving around♪
 ま、楽しかったから=Well it’s been fun,
 よしとしましょうか！=kid.>>So, shall we say our|goodbyes?
-んじゃねー！=Cyaaa!
+んじゃねー！=Cyaaaa!
 おう！　元気でな！=Yeah! Take care!
 ヨーコ…=Yoko...
 いいの？=Are you sure about this?
 仕方ないわよ=There wasn’t really any other|choice.
-それぞれ在りようというものが=Everyone’s has different reasons
+それぞれ在りようというものが=Everyone has different reasons
 あるでしょ=for being, you know?#tc
 強制はできないわ=You can’t force someone to do|something.
 もう会うことも=Yeah, guess this is where our
@@ -6088,8 +6088,8 @@
 シモン……=Simon...
 兄貴は言ってたよ=Bro told me, if she says she’s
 人間といったら人間だって=human, she’s a human.
-これからの戦いはきっと=The battle’s we’ll continue to
-厳しいに違いないし=face from now will be tough.
+これからの戦いはきっと=The battles we’ll continue to
+厳しいに違いないし=face from now on will be tough.
 グレン団も人が多いほうがいいよ=The more people Team Gurren has,|the better.
 シモン……=Simon...
 ぶぅい！=Buuui!
@@ -7258,14 +7258,14 @@
 まちがいない、あの機体！=There’s no mistaking that Gunmen!
 ケーブだ！！=It’s Cave!!
 あれは……=That appearance...
-獣人の姿……=A Beastmen...
+獣人の姿……=A Beastman...
 やっぱり………=So he isn’t really...
 !FILE:SYS_098.SPC
 王子～！！=A prince--!!
 王子だぞ私は！=I’m a prince!!
 嘘だ！=It’s a lie! It has
 こんな……嘘だっ！！=to be... a lie!!
-そう、あなたは獣人…=Yes, you are a Beastmen...
+そう、あなたは獣人…=Yes, you are a Beastman...
 お父様に『創られた』…=Something Father “created”...
 ニア……=Nia...
 あわれな………そして…=Pathetic... and... pitiful
@@ -7291,7 +7291,7 @@
 遊びも終いか=Playtime’s over, huh?
 一隻にしては=One could say that he fought well
 よくやったほうかと=for only having a single ship.
-やはり、即席の獣人や=But in the end, a young Beastmen
+やはり、即席の獣人や=But in the end, a young Beastman
 若者では頼りないのぅ=who acts without thinking...>>was never going to amount to much.
 そう言うな、グアームよ…=Don’t say that, Guame...
 余興としてはなかなかの=He managed to reach impressive
@@ -9225,7 +9225,7 @@
 ……あら！？=...Oh my!
 ニア姫っ！=Princezz Nia!
 シッポに……お耳！！=A tail... and ears!!
-あなたは獣人ですね！？=Are you a Beastmen!?
+あなたは獣人ですね！？=Are you a Beastman!?
 はいっ！　ティトリーです！=Aye! I’m Tetori! Vice-Captain of
 遊撃部隊副隊長であります！！=the Search-and-Destroy Squadron.
 ………ごめんなさい=...I’m sorry.
@@ -9260,7 +9260,7 @@
 馬鹿シモンあっち行けっ！！=Stupid Simon, go away!!
 !FILE:TETO_008.SPC
 シモン……=Simon...
-あのジギタリスって獣人…=That Ziggitallis...
+あのジギタリスって獣人…=That Ziggitalis...
 君の何だったの？　親？=What was he to you? Family?
 ……親って何？=...Family? What’s that?
 何って……お父さんとお母さんの=“What”...? Like, your mother and
@@ -9270,13 +9270,13 @@
 誰から生まれるの？=The people who gave birth to you?
 何を言ってるのか=What are you talking about?
 全然わからないけど……=I really don’t follow...
-獣人は生まれるんじゃなくて=Beastmen aren’t born. We’re created
-螺旋王に創られるんだよ=by the Spiral King.
-？？？　らせん…おう？=??? The Spiral... King?
-創る？？=Created??
+獣人は生まれるんじゃなくて=Beastmen aren’t born. We’re
+螺旋王に創られるんだよ=created by the Spiral King.
+？？？　らせん…おう？=???
+創る？？=The Spiral... King? Created??
 親？？？=Parents???
-らせんおう？=Spiral King?
-お互い話が見えないや……=We’re both as lost as each other...
+らせんおう？=Spiral King? We’re both as lost
+お互い話が見えないや……=as each other...
 !FILE:TETO_009.SPC
 ぷにぷに！　ぷにぷに！= Squishy!
 ぷににぷにに！=Squishy squish squish!
