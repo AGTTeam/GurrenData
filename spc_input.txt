@@ -6017,7 +6017,7 @@
 敵ガンメンをもっと倒して=You need to defeat more Gunmen to
 必殺技のパーツ増やさないと=get new parts for moves.
 はい、それも含めて相談が…=Yes, and to add to this discussion,
-パワーが安定しないのです=it’s power is unstable.
+パワーが安定しないのです=its power is unstable.
 グレンラガンのパワー？=Gurren Lagann’s power? When you say
 安定しないって、どんな風に？=“unstable”, what do you mean?
 はい、パワー振幅が激しく=There’s violent swings in the ouput
