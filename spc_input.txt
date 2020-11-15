@@ -1394,8 +1394,8 @@
 カスタマイズモード=Customization Mode
 !FILE:EV_001.SPC
 …………………………=.....................|Digging tunnels...
-毎日毎日掘ること=Day after day, that's
-だけが俺の仕事だ=my job.
+毎日毎日掘ること=Day after day,
+だけが俺の仕事だ=that's my job.
 !FILE:EV_002.SPC
 しっかり掘れ～～！=Keep digging!
 穴を掘ればそれだけ村が広がる=The more we dig, the more the
