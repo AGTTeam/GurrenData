@@ -6203,7 +6203,7 @@
 ヴォアアアアーッ！！=Rrrraaaaagh!
 しまった！=Oh no!
 シモン、あれは……=Simon, what is|that...?
-しつこい奴！=One persistent fellow!
+しつこい奴！=One stubborn fellow!
 はやく、こっちへ！=Hurry, this way!
 !FILE:SYS_069.SPC
 くそ！=Damn! At this rate, they’re gonna
