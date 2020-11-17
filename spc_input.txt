@@ -6310,7 +6310,7 @@
 知らぬが……=with these humans, but...
 よしみだ、教えてやろう=I shall give you some advice,|seeing as we’re family.
 今から、貴様ら人間の=Right now, you should destroy those
-食料コンテナを破壊する=wretched human’s food containers.
+食料コンテナを破壊する=wretched humans’ food containers.
 ここから逃げるもよし=Or, you could run away from here.
 守って殉ずるもよし、だ=Else, becoming a martyr works.
 殉…ずる？？=Become... a martyr?
