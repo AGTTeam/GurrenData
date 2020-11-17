@@ -6247,7 +6247,7 @@
 箱に詰められて、谷底にいたと？=locked in that container...>>and thrown into the valley for|some reason?
 なにか覚えてることはない？=Can you remember anything? Like
 どの村のどの家にいたとか？=your village, or your house?
-それが…父の名は=That... My father’s name is
+それが…父の名は=That is... My father’s name is
 ロージェノムというのですが=Lordgenome.
 私はお父様を=I believe I may have angered him...
 怒らせてしまったようで……=!
