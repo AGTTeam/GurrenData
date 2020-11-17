@@ -6262,7 +6262,7 @@
 ふむ……=Hm...
 このエンキァルは=This Enkial is
 素晴らしい=magnificent.
-レーダー波吸収塗装か=Is this coating radar|wave absorbent?
+レーダー波吸収塗装か=Is this coating|radar wave absorbent?
 こうもたやすく敵の=It’s easy to sneak
 懐へ忍び込めるとは！=around undetected!
 ふふふふ=Hehehehe.
