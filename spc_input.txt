@@ -6393,7 +6393,7 @@
 ！！　くそ！=Damn it!
 ラガンで！=Please Lagann--
 間に合えぇええ！！=FIX(122)Let me make it in|timeeeee--!!
-シモンさんが！？=Simon has!? And that Nia girl--!?
+シモンさんが！？=Simon has--!?|And that Nia girl--!?
 あのニアという娘と！？=!
 大丈夫なのか！=Are they all right!?
 ラガンはまともに=Wasn’t Lagann not working
