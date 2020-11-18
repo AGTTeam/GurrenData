@@ -591,11 +591,11 @@
 相変わらずだな=You’re looking the same as ever.
 …………=...
 どうにも気の毒だね=What a pity.
-確かに…子供が負うには=Right... It’s too heavy a burden
+確かに…子供が負うには=Yeah... It’s too heavy a burden
 あまりにも重い責任だぜ=for a child to have to bear.
 できることなら=I would change places with him in
 代わってやりたいもんだけどね=an instant if I could.#tc Simon or Nia?
-元気出せよ=You have to try and cheer up.
+元気出せよ=You have to try to cheer up.
 やるしかないんだしな=!
 !FILE:DEB_BAT.SPC
 バトルデバッグだよ。=This is the battle debugger.
