@@ -6453,7 +6453,7 @@
 俺と一緒だから…？=Because you’re with me...?
 ぶぃ！=Bui!
 !FILE:SYS_075.SPC
-ほう、ニアが=Ho, Nia, huh?
+ほう、ニアが=Ho, Nia, eh?
 ダイガンザンに……=!
 して、何とした？=And what is she doing|aboard Dai-Gunzan?
 は、そのまま=As it is, she will
