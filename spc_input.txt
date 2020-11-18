@@ -6178,7 +6178,7 @@
 う、うわわ！=W-Woah!!
 ごきげんよう=Hail fellow well met!
 ご、ごき、ごきげん？=H-Ha-hail fellow...?
-あなたはどなた？=Who are you, good sir?
+あなたはどなた？=Who are you, good|sir?
 ど、どな、どなたって=G-Goo-good sir?
 そんな立派なもんじゃ=Hardly...
 あ！　ここは外ですね！？=Ah! This is the outside, isn't it?
