@@ -6514,8 +6514,8 @@
 ええ！　もちろんあなたも！=Yes! That includes you too, of|course!
 えへへ、そ、そうか？=Ehehe, t-that so?
 ………アホ=...Moron.
-…………はぁ=*...Sigh*
-…シモンにやらせよう=...I’ll leave this to Simon handle.
+…………はぁ=*...Sigh* ...I’ll leave this
+…シモンにやらせよう= to Simon to handle.
 !FILE:SYS_076.SPC
 ニア…=Nia...
 お父様が地上の人間たちに=I heard many things from Kittan.
