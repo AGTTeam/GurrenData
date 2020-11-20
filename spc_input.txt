@@ -6804,7 +6804,7 @@
 お互いね！！=And the feeling’s mutual...!
 シモン！！　今よ！！=Simon! Now’s your chance!
 ラガンのスペシャルな修復能力で=Lagann's special regenerative
-本来のスペックを維持できるはず=ability...>>should mean it’s be able to|maintain it’s current state.
+本来のスペックを維持できるはず=ability...>>should mean it’ll be able to|maintain its current state.
 グレンラガンなら=So using Gurren Lagann, operating
 水中でも問題なく稼動するはずよ！=underwater should be no problem!
 うん！　行くぞ！！=Right! Let’s go!!
