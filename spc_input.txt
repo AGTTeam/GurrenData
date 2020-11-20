@@ -6679,8 +6679,8 @@
 穴掘りシモンだ！=Simon the Digger!
 !FILE:SYS_079.SPC
 やりおる…！=Now they’ve really gone and done|it...!
-やはりあの=It seems that mini Gunmen truly
-小型ガンメン…=is...
+やはりあの=It seems that miniature Gunmen
+小型ガンメン…=truly is...
 いずれはロージェノム様の=going to become a threat to
 脅威となろう……=Lordgenome...
 ここはひとまず退くとするか=I suppose I should retire for the|time being.
