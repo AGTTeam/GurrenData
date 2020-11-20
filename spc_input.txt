@@ -2611,7 +2611,7 @@
 あら、シモン=Oh, hey Simon.
 テッペリンの攻略ルート！=We’re plotting a course for|Teppelin!
 ここから一番近いルートとなると=The shortest route from here
-『海』を横断することになるの！=involves crossing the “sea”.
+『海』を横断することになるの！=involves crossing the “sea.”
 海？？=The sea??
 あれよ、あれ！=Just look down there!
 きゃ～～=EeekCUS(WAVE)CUS(WAVE)
