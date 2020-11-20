@@ -6743,8 +6743,8 @@
 指揮をとれ=Dai-Gunkai.
 はっ！=Yes, ma’am!
 魚雷！！装てんと=Ready the torpedoes!!
-同時に発射だ！= >>Load them, then|fire all at once!
-息継ぎさせるなっ！=Don’t give them a|second to react!
+同時に発射だ！=!
+息継ぎさせるなっ！=Load them, then|fire all at once!>>Don’t give them a|second to react!
 えーー！=Huuuh!?
 敵襲～～～～！？=An attack!?
 せっかく楽しかったのにぃ！=Just when we were finally doing|something fun!
