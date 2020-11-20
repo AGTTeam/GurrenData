@@ -6724,7 +6724,7 @@
 仕事してもらうぞ=work for you.
 第三艦橋で見張りだ=We need a lookout on the third|bridge.
 あいあいっさ！=Aye, aye, sir!
-あいあいさ～！=Aye, aye sirCUS(WAVE)!
+あいあいさ～！=Aye, aye, sirCUS(WAVE)!
 ギガンチョあいあいさ！=Gigancho-aye, aye, sirrr!
 お前もか…まぁいい=You aren’t-— Well, whatever.
 しっかり頼むぞ！=Keep your eyes peeled.|We’re counting on you!
