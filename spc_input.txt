@@ -6818,7 +6818,7 @@
 ば、ばかな！！=I-Impossible!!
 アディーネ様！！！=General Adiane!!!
 チミルフ、すまないね=Thymilph...I'm sorry.
-仇、とれなかったよ…=I couldn’t avenge you.
+仇、とれなかったよ…=I couldn’t avenge you
 あの時、どうして目をつぶったの？=Why did you close your eyes back|there?
 どうしてって…=“Why”...?
 ヨーコさんはライフルの達人です=That is because you are a master
@@ -6904,7 +6904,7 @@
 待ってシモン！！=Wait, Simon!!
 どうするつもり！？=What are you going to do!?
 どうするって…！=“What”...!? I’m gonna
-迎撃するんだよ！！= counterattack, of course!
+迎撃するんだよ！！=counterattack, of course!
 ロシウ！！　グレンを！=Rossiu!! Take Gurren!
 ロ……あ！=Ro... Ah!
 言わんこっちゃないわ……=I knew this would happen...
@@ -6915,7 +6915,7 @@
 みんなにできて私にだけ=Since everyone else managed there’s
 できない理由はないでしょ！=no reason I shouldn’t be able to!
 ほう……まだしぶとく=Oh...? Are you going to stubbornly
-生き残るか…『元』姫様？？=fight to stay alive again...>>Miss *former* princess??
+生き残るか…『元』姫様？？=fight to stay alive again...>>Miss “former” princess??
 ……もう、そんな言葉に=...I’m not going to get worked up
 動じたりしません！！=by your words anymore!!
 ……なに？=...What?
