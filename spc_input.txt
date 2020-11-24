@@ -2118,7 +2118,7 @@
 ………=...
 今度なめた口きいたら赤と緑の=Next time I hear you making light
 シマシマに塗ってやるからな=of my work...>>I’ll repaint your Gunmen with red|and green stripes.
-わわ！　悪かったって！=Ack! It was my bad!
+わわ！　悪かったって！=Ack! It was my mistake!
 ごめん、マジで！=I’m sorry, really!
 !FILE:KIYA_001.SPC
 ホントか！？=Seriously!?
