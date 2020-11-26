@@ -9607,7 +9607,7 @@
 食料がとぼしくなってきたの=Food is becoming scarce.
 ふがーー！！=Ah!
 持ってきたぞーー！！=Here it comes!!
-まだまだいくよー！！=We’ve not finished yet!
+まだまだいくよー！！=We’re not finished yet!
 ま、まだやるのか！=Y-You’re still going?
 まだまだまだまだぁ！=We’ve got a ways to go!
 !FILE:YOKO_001.SPC
