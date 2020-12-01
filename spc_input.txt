@@ -2020,7 +2020,7 @@
 まだやってる……=He’s still going...
 ぶぃ！　ぶぃ！=Bui! Bui!
 それ！　それ！=Here! Like this!
-おお！　調子出てきたな！=Oh! Now you’re getting the hang of it!
+おお！　調子出てきたな！=Oh! Now you’re getting the|hang of it!
 ばかやろう！=You idiot!
 敵襲だ！！！=That’s an enemy attack!!!
 ………………………=...
