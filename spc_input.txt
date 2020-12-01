@@ -7045,7 +7045,7 @@
 ぬはぁ！=Ack!
 シトマンドラ様！=General Cytomander!
 な、何を……=W-What...?
-腹いせだ=I’m venting.
+腹いせだ=I’m venting my frustration.
 ……～～～～～！=......CUS(WAVE)CUS(WAVE)CUS(WAVE)CUS(WAVE)!!
 !FILE:SYS_089.SPC
 あ……=Ah...
