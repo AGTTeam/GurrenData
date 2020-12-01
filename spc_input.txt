@@ -7038,7 +7038,7 @@
 残存兵力を報告しろ！！=Report! How many troops remain?
 はっ！=Yes, sir!
 下級ガンメン……=There are...
-２機であります！！=two lower grade Gunmen!!
+２機であります！！=two lower-grade Gunmen!!
 そうか……=Is that so...?
 ヴィラルよ…=Viral...
 はっ！=Yes, sir!
