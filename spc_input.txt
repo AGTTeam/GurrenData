@@ -7092,7 +7092,7 @@
 うん、立っているのも=Yeah, it’s dangerous to stand
 危ないくらいだ=around here.
 みんな中に入ったほうがいいよ=You should all get inside.
-そーしよ！　そーしよ！=Kay, we’re going!
+そーしよ！　そーしよ！=’Kay, we’re going!
 !FILE:SYS_093.SPC
 うん！？=Huh!?
 カミナはどうした？=What happened to Kamina?
