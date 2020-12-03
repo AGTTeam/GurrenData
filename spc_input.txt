@@ -2724,8 +2724,8 @@
 そう、そのまさかよ！=Yes, exactly!
 グレンラガンは空中で=Gurren Lagann will be able to
 戦えるようになるわ！=fight in the air!
-今はまだ調整中だけれど…=We still need|to sort a few things...
-終わったら知らせるわね！= >>but I’ll tell you when it’s ready!
+今はまだ調整中だけれど…=We still need to sort a few
+終わったら知らせるわね！=things...>>but I’ll tell you when it’s ready!
 うん！　楽しみにしてる！=All right!|I’m looking forward to it!
 !FILE:LEER_017.SPC
 …ふぅ=*...Sigh*
