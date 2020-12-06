@@ -9663,8 +9663,8 @@
 ……俺のことは=...She didn’t ask about me.#tc
 聞いてくれないんだな=!
 ぶみ～～～～=ByuiCUS(WAVE)CUS(WAVE)!
-なんだお前、なぐさめてくれるのか=Huh, are you trying to console me?
-よしよし♪=Aren’t you a good boy?♪#tc
+なんだお前、なぐさめてくれるのか=Huh, are you trying to cheer me
+よしよし♪=up? Aren’t you a good boy?♪
 !FILE:YOKO_003.SPC
 ………=...
 本当に行っちゃうの？=Are we really going to go?
