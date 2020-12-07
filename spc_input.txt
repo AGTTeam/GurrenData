@@ -2501,7 +2501,7 @@
 お風呂入って=I feel so refreshed after that
 リフレッシュしたしね！=bath!
 にひひひひ！=Mmmmhmmm!
-はりきって行こう～～！！=I’m suuuper ready to goCUS(WAVE)!!
+はりきって行こう～～！！=I’m suuuuper ready to goCUS(WAVE)!!
 なぜオマエがいる！！=Why are you still here!?
 まぁいいじゃん！=Nothing wrong with that!
 しっぽはもう乾いた？=Is your tail dry already?
@@ -3526,7 +3526,7 @@
 人間を駆逐すること…それが=The total annihilation of humans...
 獣人にとってどんな意味があるのか=What reason could they have?
 わかりません……=I don’t get it...
-そうだな…=Me either...
+そうだな…=Me neither...
 でも、わかってることは一つある=But, there is one thing I know.
 …それは？=...Which is?
 やらないと、やられる=If we don’t make a move, they
@@ -5572,7 +5572,7 @@
 蹴散らしてやれ！！=!
 !FILE:SYS_052.SPC
 はぁ…はぁ…！=*Huff... huff...!*
-だ…だめだ…=I...it’s no use...
+だ…だめだ…=I...It’s no use...
 ラガンが思うように=Lagann’s not moving
 動いてくれない…！=the way I want it to!
 艦の…コントロールが=The controls...
