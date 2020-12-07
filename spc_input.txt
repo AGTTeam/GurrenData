@@ -568,9 +568,9 @@
 !FILE:DAYA_010.SPC
 ふむ…料理か！=Hm... cooking you say?
 そういうことなら…=All right then...
-…なごむ顔をしている……=...It’s face is kind of cute...
+…なごむ顔をしている……=...Its face is kind of cute...
 いい顔してるだろ？=It’s a great face, right?
-ほっぺがトレードマークだ！=The cheeks are it’s trademark!
+ほっぺがトレードマークだ！=The cheeks are its trademark!
 淡白だがいい肉質で=It’s nothing fancy, but the meat’s
 俺の好物なんだ！=good and it’s my favourite!
 へぇ～～=HmCUS(WAVE)
@@ -5939,9 +5939,9 @@
 何がわかる！？=you know about it!?
 わかるとも……=I do get it...
 人間の弱さ……=That’s humanity’s
-それに、強さもだ！！=weakness...>>And, also it’s|strength!!
+それに、強さもだ！！=weakness...>>And, also its|strength!!
 弱い人間は去れ！=Weak humans should
-この世から去れ！！=disappear!>>Be gone from this|world!!
+この世から去れ！！=disappear!>>Begone from this|world!!
 !FILE:SYS_062.SPC
 あの中には=Tetori is probably inside that
 多分ティトリーも！=thing too.
