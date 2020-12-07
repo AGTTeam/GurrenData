@@ -5185,7 +5185,7 @@
 !FILE:SYS_038.SPC
 やれやれ、片付いたぜ！=Ahh, we finally got rid of them!
 どうだ、顔神様の正体を=So, have you changed your mind
-知った気分はよ=about your so-called “Face Gods”,>>now you’ve seen the truth?
+知った気分はよ=about your so-called “Face Gods”,>>now that you’ve seen the truth?
 ………=...
 天上ってどんなところかな！=I can’t wait to see the Celestial|Lands!
 食べるもの…=We’ve been given loads of food!
@@ -8714,7 +8714,7 @@
 これが…天上……=This is... the Celestial Land...
 広いなー！=It’s huge!
 広いねー！=So huge!
-地上だ地上！=It’s the surface, the suuurCUS(WAVE)face!
+地上だ地上！=It’s the surface, the suuuurCUS(WAVE)face!
 さ、明日に備えて寝ようぜ=All right, let’s get some sleep so|we’ll be ready to face a new day.
 うん！　さすがに疲れたよ…=Yeah! I didn’t think I’d be this|worn out...
 ぶぃ！=Bui!
