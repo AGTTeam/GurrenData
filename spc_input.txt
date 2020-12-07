@@ -2501,7 +2501,7 @@
 お風呂入って=I feel so refreshed after that
 リフレッシュしたしね！=bath!
 にひひひひ！=Mmmmhmmm!
-はりきって行こう～～！！=I’m suuuper ready to goCUS(WAVE)!!
+はりきって行こう～～！！=I’m suuuuper ready to goCUS(WAVE)!!
 なぜオマエがいる！！=Why are you still here!?
 まぁいいじゃん！=Nothing wrong with that!
 しっぽはもう乾いた？=Is your tail dry already?
@@ -3441,7 +3441,7 @@
 『５０人を超えたら=“If the village's population
 　天上の国へ送り出す』=exceeds 50 people...>>some must be chosen to leave for|the Celestial Lands.”
 この村の決まりなんです=That is the rule of this village.
-そしてつい先日、５２人になった…= >>And, it’s population recently|rose to 52...
+そしてつい先日、５２人になった…= >>And, its population recently|rose to 52...
 も、もしかして、このコ達が…=T-Then you don’t mean, these|children...
 天上の国へ送り出されます=They will be sent to the Celestial
 僕の母がそうであったように……=Lands, as my mother was...
@@ -3526,7 +3526,7 @@
 人間を駆逐すること…それが=The total annihilation of humans...
 獣人にとってどんな意味があるのか=What reason could they have?
 わかりません……=I don’t get it...
-そうだな…=Me either...
+そうだな…=Me neither...
 でも、わかってることは一つある=But, there is one thing I know.
 …それは？=...Which is?
 やらないと、やられる=If we don’t make a move, they
@@ -5185,7 +5185,7 @@
 !FILE:SYS_038.SPC
 やれやれ、片付いたぜ！=Ahh, we finally got rid of them!
 どうだ、顔神様の正体を=So, have you changed your mind
-知った気分はよ=about your so-called “Face Gods”,>>now you’ve seen the truth?
+知った気分はよ=about your so-called “Face Gods”,>>now that you’ve seen the truth?
 ………=...
 天上ってどんなところかな！=I can’t wait to see the Celestial|Lands!
 食べるもの…=We’ve been given loads of food!
@@ -5572,7 +5572,7 @@
 蹴散らしてやれ！！=!
 !FILE:SYS_052.SPC
 はぁ…はぁ…！=*Huff... huff...!*
-だ…だめだ…=I...it’s no use...
+だ…だめだ…=I...It’s no use...
 ラガンが思うように=Lagann’s not moving
 動いてくれない…！=the way I want it to!
 艦の…コントロールが=The controls...
@@ -8714,7 +8714,7 @@
 これが…天上……=This is... the Celestial Land...
 広いなー！=It’s huge!
 広いねー！=So huge!
-地上だ地上！=It’s the surface, the suuurCUS(WAVE)face!
+地上だ地上！=It’s the surface, the suuuurCUS(WAVE)face!
 さ、明日に備えて寝ようぜ=All right, let’s get some sleep so|we’ll be ready to face a new day.
 うん！　さすがに疲れたよ…=Yeah! I didn’t think I’d be this|worn out...
 ぶぃ！=Bui!
