@@ -3488,7 +3488,7 @@
 獣人について話をうかがいましたよ=to tell me about the Beastmen.
 兄貴に？=Bro told you?
 ええ、確か……=Yes, as I recall...
-獣人ってのは、そもそも何だ？=What are “Beastmen,” even?
+獣人ってのは、そもそも何だ？=What are “Beastmen”, even?
 答える義務はないな、人間=I’ve no obligation to answer you,|Human.
 ……=...
 なら、なぜ人間を襲うんだよ=Then, why do you attack humans?
@@ -6019,7 +6019,7 @@
 はい、それも含めて相談が…=Yes, and to add to this discussion,
 パワーが安定しないのです=its power is unstable.
 グレンラガンのパワー？=Gurren Lagann’s power? When you say
-安定しないって、どんな風に？=“unstable,” what do you mean?
+安定しないって、どんな風に？=“unstable”, what do you mean?
 はい、パワー振幅が激しく=There’s violent swings in the
 機体のコントロールが難しい…=output making it hard to control.
 まるで……泣いている時の=It’s almost as if...
@@ -6203,7 +6203,7 @@
 ヴォアアアアーッ！！=Rrrraaaaagh!
 しまった！=Oh no!
 シモン、あれは……=Simon, what is|that...?
-しつこい奴！=One stubborn fellow!
+しつこい奴！=One persistent fellow!
 はやく、こっちへ！=Hurry, this way!
 !FILE:SYS_069.SPC
 くそ！=Damn! At this rate, they’re gonna
@@ -6275,7 +6275,7 @@
 ……？（にこにこ）=...? (*Smile*)
 私をご存知なのですか？=Are you an acquaintance of mine?
 螺旋王ロージェノムの第一王女ニア=First Princess Nia, daughter of|Spiral King Lordgenome.
-『だった』お方ですな=Or you “were,” once.
+『だった』お方ですな=Or you “were”, once.
 …今も第一王女ですが…=...I am still the First Princess...
 知らぬは本人ばかり、か=The only person who doesn’t know
 憐れなものだ、ははははは！=is the lady herself, huh?>>You pitiful child, hahahahaha!
