@@ -133,8 +133,8 @@
 連れて帰る…！！=home...!!
 待っててくれ！=Wait for us!
 ………（にこにこ）=...(*Smile*)
-必ずニアは=I’ll bring Nia home without fail...!!
-連れて帰る…！！=!
+必ずニアは=I’ll bring Nia home without
+連れて帰る…！！=fail...!!
 待っててくれ！=Wait for us!
 ………（にこにこ）=...(*Smile*)
 !FILE:COCO_002.SPC
@@ -2685,7 +2685,7 @@
 極限まで増大させる暗黒の海=entropy to the limit.
 それは螺旋力だけでなく熱、=It is not just Spiral Power, but
 電磁力、あらゆる力を消失させ……=heat, electromagnetic energy...>>every force is being dissipated.
-ゴタクはいい！=That’s enough of fancy talk!
+ゴタクはいい！=That’s enough fancy talk!
 で、このまま行くと=What’s gonna happen to us if we
 どうなるんだ！？=keep sinking!?
 待つのは全乗組員の=What awaits is certain death, for
@@ -8315,13 +8315,13 @@
 宇宙に出た彼らも=into space,
 待っているのは=all that awaits them
 絶滅です=is despair.
-アンチスパイラルが=That is the Anti-
-求めているのは=Spirals seek.
+アンチスパイラルが=That is what the
+求めているのは=Anti-Spirals seek.
 『絶対的絶望』=“Absolute Despair”.
 そのための手段は=They have taken every
 全て講じてあります=necessary step...>>to achieve that aim.
 これじゃ地球は=Doesn’t that mean
-全滅じゃないか！=the earth will...>>be completely|destroyed!?
+全滅じゃないか！=the Earth will be...>>completely|destroyed!?
 どういうことだ！？=Why would you!?
 そのつもりですから=Because that is their|intention.
 ニア、お前は！！=Nia, you’d--!!
@@ -8337,7 +8337,7 @@
 ガンメン破棄命令が出たときに…=When the order to destroy all the|Gunmen was given...
 リーロンとレイテがこっそり=Leeron and Leyte hid them in
 隠しておいたらしくてな！=secret!
-皆のガンメン、そろってるぜ！=Everyone’s Gunmen’s are all right!
+皆のガンメン、そろってるぜ！=Everyone’s Gunmen are all right!
 ほ、本当か！=R-Really!?
 ウソなんかつくかよ！=Why would I lie about something|like that?
 ダヤッカイザーも=The Dayakkaiser... and my King|Kittan...
@@ -8400,10 +8400,10 @@
 これは…ムガン！！！=It’s... the Mugann!!
 無数……大量！！！=A... countless number!!!
 ダメだ…！！=It’s hopeless...!
-この数では…とても……！！=Against this number...!!
+この数では…とても……！！=Against this many...!!
 …防ぎきれない！=...Our defences won’t hold up!
 こ…………！=This...!
-これも罠だと言うのか=This was a trap all along?
+これも罠だと言うのか=Was this a trap all along?
 …………！=...!
 アークグレンの螺旋エネルギーが=Arc-Gurren’s Spiral Energy is
 減衰していく…=falling...
@@ -8417,7 +8417,7 @@
 ここまで……か……！=Is this... as far as we can go!?
 螺旋エネルギー、減衰します！=Spiral Energy is still falling!
 このままでは艦のシールドが=At this rate, we won’t be able to
-維持できません！！=maintain the shielding!!
+維持できません！！=maintain the shields!!
 …きゃっ！=...Oof!
 これが……=This...
 これが僕の限界なのか……=Is this my limit...?
@@ -8435,7 +8435,7 @@
 天を突く=is the drill that will pierce the
 ドリルだって事を！=heavens!
 人と獣の二つの道を=The Spiral Path, in which the
-ねじって交わる螺旋道！=twin paths of man and beast...>> wind and intersect!
+ねじって交わる螺旋道！=twin paths of man and beast...>>wind and intersect!
 昨日の敵で運命【さだめ】を砕く！=Join with yesterday's enemy to
 明日の道をこの手で掴む！！=smash fate...>>and grab hold of tomorrow's path|with our own hands!
 宿命合体グレンラガン！=Destiny Combining! Gurren Lagann!
@@ -8452,7 +8452,7 @@
 月が落ちるまで時間がないぞ？=We don’t have much time until the|moon falls.
 戻ってどうするつもりだ？=What are you planning?
 なに、ちょっと景気づけてやりたい=What? I thought we could go and
-ヤツがいるんでな=lift that guy’s spirts.
+ヤツがいるんでな=lift that guy’s spirits.
 ……余裕だな、まったく=You’re too laid-back, honestly...
 …そうでもないさ=...I wouldn’t say so.
 !FILE:SYS_217.SPC
@@ -8471,8 +8471,8 @@
 そう…止めなきゃな=Yeah... We have to stop it.
 ………=...
 ほらほら、元気だしなさい！=Now now, don’t look so miserable!
-シモン、月についたら=Simon, there might just be
-いいことがあるわよ！=something we can about the moon!
+シモン、月についたら=Simon, there might just be something
+いいことがあるわよ！=we can do about the moon!
 月の本当の姿……それこそ=The moon’s true form...
 我が旗艦『カテドラル・テラ』だ=is my flagship, the “Cathedral|Terra”.
 月の内部は、おそらく=The moon’s construction is probably
@@ -8492,7 +8492,7 @@
 あとはまかせました、シモンさん=I leave the rest in your hands,|Simon.
 !FILE:SYS_218.SPC
 ニア……=Nia...
-そこをどけ、ニア=Get out of the way
+そこをどけ、ニア=Get out of the way.
 私はアンチスパイラルの=I am the messenger of the Anti-
 メッセンジャー……=Spirals...
 螺旋族であるあなた方を=Causing the extinction of you
@@ -8523,7 +8523,7 @@
 困難な状況をお前が=The more dire the situation you've
 与えてくれるほど俺達は強くなった=put us in,
 だから今、俺はここにいる=the stronger we've become. That's
-お前もそれを望んでいた=what's brought me to this place.>>And that's what you’ve been hoping|for, too.
+お前もそれを望んでいた=what brought me to this place.>>And that's what you’ve been hoping|for, too.
 あなたと私は別の次元にいる=You and I exist in different|dimensions.
 私の過去はすべて虚構のもの=My past was entirely a fictional
 あなたの言葉は私には届かない=creation.>>Your words mean nothing to me.
@@ -8533,7 +8533,7 @@
 その指輪をしてる！=still wearing that ring?
 …………こ、これは……=...T-This is...
 なぜ動揺する？=Why are you trembling? Is that also
-それもアンチスパイラルの意思か！=part of the Anti-spiral’s will?
+それもアンチスパイラルの意思か！=part of the Anti-Spiral’s will?
 …………=...
 お前の明日は俺の=I'm gonna grab hold of your future
 この手で掴んでやる！！=with my own two hands!
@@ -8591,7 +8591,7 @@
 指輪の形なの=you gave to Nia.
 な……=Wha...
 宇宙とはあいまいさ…=What we call the universe is
-認識された時初めて確定する=constructed on ambiguity.>>It only becomes a fixed reality|when observed.
+認識された時初めて確定する=built on ambiguity.>>It only becomes a fixed reality|when observed.
 それがこの宇宙の理…=That is a fundamental law of the
 たとえアンノウンスペースにいても=universe.
 一度認識された物質は=Even in a pocket universe, an
@@ -8606,7 +8606,7 @@
 わかりやすく言われても=I don’t understand what’s supposed
 わからねぇな…=to be easy to understand about it.
 はいはい、男は理屈より=Of course, men care more about
-行動よ行動！！=action than acquisition!
+行動よ行動！！=action than acquisition!#tc
 でも、つまりそれって…=But in short, what you’re saying|is...
 ニアの残した思いが道しるべに=Nia left that thing as a guidepost
 なったってこと？=for us?
@@ -8620,7 +8620,7 @@
 んだと！！=You wanna repeat that--!?
 理屈はどうあれ、わかった以上=Who cares about the explanation!
 行けばいいだろうが！= >>We know where it is, so we're|going.
-それが大グレン団だろう！？=Isn’t that how Team Dai-Gurren does|things!?
+それが大グレン団だろう！？=Isn’t that how Team Dai-Gurren|does things!?
 その通り！　一度認識した=Precisely!
 次元座標ならば、一瞬で転移可能<20>= >>With a fixed set of perceptual|dimensional coordinates,>>instantaneous teleportation is|possible.
 それが螺旋界認識転移システム=That’s how the Spiral Perceptual|Teleportation System works.
@@ -8743,8 +8743,8 @@
 しびれるぜ…これが=It’s electrifying... So this is
 グレンラガンの力！！！=Gurren Lagann’s power!!!
 ああ！=Yeah!
-俺はこんなもんと=To think I went up against such a
-戦っていたのか……=monster...
+俺はこんなもんと=To think I went up against such
+戦っていたのか……=a monster...
 勝てないわけだな…=I never stood a chance of|winning...
 ……………=......
 …どうした？=...What’s up?
@@ -8753,7 +8753,7 @@
 …新手か！=...Reinforcements, huh?
 ほう、これはまた大所帯だな！=Heh, they’re putting on the Ritz
 ……どれから片付ける？=for us!
-より取り見取りだぜ！！！=So, which should we start with?|It’s an all you can eat buffet!!!
+より取り見取りだぜ！！！=So, which one should we start with?|It’s an all you can eat buffet!!!
 迷い箸は行儀悪いって言うぜ…？=You’re going to single out the|ones you fancy most?>>Now that’s just bad manners.
 話が早くて助かる…=In that case... let’s go for
 なら目の前からだっ！！=whoever we grab first!!
