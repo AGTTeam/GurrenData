@@ -3696,8 +3696,8 @@
 グレンラガン！！=Gurren Lagann!!
 ヴィラル！！=Viral!!
 シモン、気をつけろ！=Simon, be careful!
-風の強さが異常だ！！=The wind is abnormally strong!!
-大部隊のようだ、落ちたりしたら=If you fall Dai-Gurren won’t be
+風の強さが異常だ！！=The wind is unusually strong!!
+大部隊のようだ、落ちたりしたら=If you fall, Dai-Gurren won’t be
 ダイグレンは守りきれん！=able to protect you!
 トビダマの調整はまだよ！=We haven’t finished working on
 それまではなんとかしのいで！=the levi-sphere yet!>>You need to hold them off!
@@ -4724,7 +4724,7 @@
 !FILE:SYS_030.SPC
 兄貴！=Bro!
 ラガンは無事だよ！=Lagann's all right!
-おう！=Yeah! Good job it
+おう！=Yeah! Good thing it
 そいつぁよかった！=was only these bozos!
 ん…と？=Hm...?
 あのチッコイ=That small Gunmen
@@ -6912,7 +6912,7 @@
 私が出るわ=I’ll go.
 ええええ！？=Huuuh!?
 そんないきなり！！=But you haven’t--!?
-みんなにできて私にだけ=Since everyone else managed there’s
+みんなにできて私にだけ=Since everyone else managed, there’s
 できない理由はないでしょ！=no reason I shouldn’t be able to!
 ほう……まだしぶとく=Oh...? Are you going to stubbornly
 生き残るか…『元』姫様？？=fight to stay alive again...>>Miss “former” princess??
@@ -7108,7 +7108,7 @@
 そんなもので=Are they saying that’s...
 グレンラガンは…=!
 強くなると言うのか！？=the source of Gurren Lagann’s|strength!?
-くそ！　ここは退くか！=Damn! So I have to retreat!?
+くそ！　ここは退くか！=Damn! So I'm forced to retreat!?
 仕切りなおしだ！=Don’t think this is over, Simon!!!
 シモン！！！=!
 お帰りなさい！=Well done!
