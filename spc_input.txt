@@ -4724,7 +4724,7 @@
 !FILE:SYS_030.SPC
 兄貴！=Bro!
 ラガンは無事だよ！=Lagann's all right!
-おう！=Yeah! Good job it
+おう！=Yeah! Good thing it
 そいつぁよかった！=was only these bozos!
 ん…と？=Hm...?
 あのチッコイ=That small Gunmen
