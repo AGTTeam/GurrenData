@@ -3156,7 +3156,7 @@
 ……大丈夫？=...Are you all right?
 シモン、俺は旅に出る=Simon, I’m going on a journey.
 え？=Huh?
-鉄の胃袋、完全なる敗北だ=My iron stomach has met it’s match
+鉄の胃袋、完全なる敗北だ=My iron stomach has met its match
 敗れたからには修行の旅に出る=and failed miserably,>>so I need to go on a journey to|train.
 じゃあな=Cya.
 ………=...
@@ -3285,7 +3285,7 @@
 そんなに慌てて！！=You’re in such a fluster!
 慌てもします！=You will be too!
 だって……=After all...
-キヨウさんが無事女の子を=Kiyoh has safety delivered her
+キヨウさんが無事女の子を=Kiyoh has safely delivered her
 出産なさったと…今知らせが！=baby... Now you know!
 そう…そうか！=I-Is that right?
 ええ！　女の子だそうで…=Yes! It’s a beautiful baby girl.
@@ -3570,13 +3570,13 @@
 ロシウ…お前、変わったな=Rossiu... You’ve changed.
 変わったうちに入りません=Everything has changed.#tc
 ……このカミナシティや=...This Kamina City, and the hearts
-人々の心に比べれば……ね=of it’s citizens...
+人々の心に比べれば……ね=of its citizens...
 !FILE:ROSI_005.SPC
 敵機の解析作業は？=How is the analysis of the enemy|ship coming along?
 難航していますね=It’s hard going.
 機体を構成している物質が=We haven’t been able to identify
 何だかわからない……=the materials it’s composed of...
-どうも地球上の=It seems they’re not of this earth.
+どうも地球上の=It seems they’re not of this Earth.
 物質ではないらしい=!
 ……なに？=...What?
 １００万の猿……=A million apes...
@@ -3607,7 +3607,7 @@
 『螺旋力危険レベル=has achieved...
 　第二段階』=!
 …それに達したと判断=“Spiral Power danger|level two”.
-これより……=Thus, we herby|activate...
+これより……=Thus, we hereby|activate...
 人類殲滅システムを=the Humanity
 発動します=Extermination System.
 ニ、ニアなの……か？？=I-Is that really Nia...?
@@ -5346,7 +5346,7 @@
 やかましいわ！！=Shut your trap!!
 キサマに言われんでも=I don’t want to hear that from
 らしくないことくらい=you.
-自分でわかっとるんじゃー！！=I've realized that myself!!
+自分でわかっとるんじゃー！！=I've realised that myself!!
 次は…負けん=Next time... prepare to taste
 覚悟しておけ！=your defeat!
 行くぞティトリー=Let’s go, Tetori.
@@ -7158,7 +7158,7 @@
 ダイガンクウの軌跡は？=What’s Dai-Gunku’s trajectory?
 追えているか？=Is it chasing us?
 はい…熱源を追ってはいますが…=Well... I’m trying to identify
-もう少し時間をください=it’s heat signature...>>Please give me a little more time.
+もう少し時間をください=its heat signature...>>Please give me a little more time.
 ケーブのダイガンクウの=We’ve got a lock on Cave’s Dai-
 動きをとらえたぞ=Gunku.
 ここから南西の方向…うん？=It’s located southwest from here...
@@ -7198,8 +7198,8 @@
 いえ、僕はただ座ってただけです=No, I was just sitting there.
 すべてシモンさんの働きですよ=It was all Simon’s work.
 そんなことない！=That’s not true!
-ロシウがいて、リーロンや=It was thanks to you, and Leeron
-他の皆がいるから…やれたんだ=and everyone else that we got him.
+ロシウがいて、リーロンや=It was thanks to you, Leeron and
+他の皆がいるから…やれたんだ=everyone else that we got him.
 ぶぃ！=Bui!
 ふふ♪=Heheh♪
 ほう…=Ho...?
@@ -7629,7 +7629,7 @@
 何を！！　貴様ごときの指図を！=What!? You son of a bitches are|ordering ME--!?
 口をひかえられよ！=Hold your tongue!
 これより先は私が=From this point onwards, I’m the
-ダイガンザン進行阻止の任に就く=one in charge.>>I will stop Dai-Gunzan’s advance|in it’s tracks.
+ダイガンザン進行阻止の任に就く=one in charge.>>I will stop Dai-Gunzan’s advance|in its tracks.
 ………っく！！=...Urgh!!
 !FILE:SYS_109.SPC
 やはり…ただの砲撃で=As I thought...
@@ -7820,7 +7820,7 @@
 地下にいた人々は地上に解放された=!
 ラガンやコアドリル、=humanity was free to begin a new
 螺旋の力とは何なのか=life on the surface.
-なぜロージェノムは=What is Lagann, the Core Drill,|and Spiral Power?
+なぜロージェノムは=What are Lagann, the Core Drill,|and Spiral Power?
 地下に人間達を=Why did Lordgenome try to drive
 押し込めようとしたのか=humanity underground?
 さまざまな謎は残っている=All those mysteries and more|remain unsolved.
@@ -7937,7 +7937,7 @@
 螺旋王と変わらない！！=than what the Spiral King did!!
 地上か、地下かの違いだけだ！=The only difference is where you|force them to live!
 なに！？=What!?
-浅知恵の愚考は結構だ=Those are the utterings of a|shallow minded fool.
+浅知恵の愚考は結構だ=Those are the utterings of a|shallow-minded fool.
 ……なんだと！？=...What did you say!?
 反政府行動はお前を法廷で裁く=Anti-government activities will
 言いたいことは、裁判で言いたまえ=be punished in a court of law.>>You will have your say at your|trial.
@@ -7946,7 +7946,7 @@
 人間が手に入れた新しい知恵だ=A new piece of wisdom that humanity|has acquired.
 …なるほどな=...I see.
 では、その知恵とやら=Then, I suppose I’ll have to judge
-拝見させてもらおうか！=this ‘wisdom’ for myself!
+拝見させてもらおうか！=this “wisdom” for myself!
 ギンブレー、彼を連行しろ=Guinble, take him away.
 了解！=Yes, sir!
 !FILE:SYS_204.SPC
@@ -7992,8 +7992,8 @@
 それがまた動き始めたら=they might worry that another big
 また大きな戦闘があるのか、と…=battle is coming...
 市民が…不安がります！！=The citizens will panic!!
-……ダリー、しっかりとした=...You’ve learnt how speak up for
-意見を言うようになったな……=yourself much more, Darry....
+……ダリー、しっかりとした=...You’ve learnt how to speak up
+意見を言うようになったな……=for yourself much more, Darry....
 わかったよ、グレンラガンは=You win. Gurren Lagann will stay
 置いていこう……=out of this...
 ………=...
@@ -8096,7 +8096,7 @@
 活動をアンチスパイラルが感知した=lifeforms.>>We Anti-Spirals detected this|change.
 １００万匹の……猿……=A million... apes...
 そう……１００万を超えた人類は=Yes... Having passed one million,
-爆発的に数も文明も進化させる= >>human numbers and civilization will|advance explosively.
+爆発的に数も文明も進化させる= >>human numbers and civilization will|advance exponentially.
 我々アンチスパイラルを=They will become a power that will
 脅かす勢力となる……=be a threat to our own...
 だから、その前に滅ぼすのです=And so, we will destroy you before|that can happen.
@@ -8119,7 +8119,7 @@
 皆殺しにする！？=annihilate humanity!?
 三週間後、=In three weeks' time,
 月は軌道を離れ……= >>the moon will leave|its orbit...
-地球に激突する……=and impact the Earth...
+地球に激突する……=and crash on Earth...
 それで……=And that...
 終わりです=Will be the end of it.
 ニア……？？　ニアーーーー！！=Nia...? NIAAAAAAA!!
@@ -8143,7 +8143,7 @@
 大変よ！=It’s an emergency!
 今度は何だ！！=What now!?
 超弩級エネルギー反応……=We’ve detected several large energy
-多数確認！！！=charges!
+多数確認！！！=signatures!
 カミナシティに向かって=They’re pouring down on Kamina
 降り注いで来ます！！=City!!
 月から………！？=From the moon...!?
@@ -8157,9 +8157,9 @@
 !FILE:SYS_209.SPC
 よし……片付いたか……=All right... Looks like that’s
 ……ん？=sorted... ...Hm?
-グレンラガンのダメージが大きい=Gurren Lagann’s taken large
+グレンラガンのダメージが大きい=Gurren Lagann’s taken a lot of
 こいつでも…無理なのか……=damage...>>But... it still wasn’t enough...?
-やったか！！=Did we get em!?
+やったか！！=Did we get 'em!?
 ええ、そのようね…でも……=Yes, it seems so... but...
 ダメだ……=It’s hopeless... The riots of the
 市民の暴動が止まらねぇ…=citizens have not stopped...
@@ -8180,15 +8180,15 @@
 『元』総司令、か！？=Now it’s “former” Supreme Commander|right?
 よく喋るようになったな…=You’re certainly talkative...
 ヴィラル……=Viral...
-な～～に、外の情報はここにも=We still get news from the from
-入ってくるからな=the outside world in here.
+な～～に、外の情報はここにも=We still get news from the
+入ってくるからな=outside world in here.
 お前がどんなに面白いことに=I always knew you were going to
 なっているかは知っていた=be an interesting one.
 お前にあったら一言、いや二言=If you’re around, I’ll never be
 くらいは言いたい事があった…=short of things to say...
 饒舌（じょうぜつ）にもなるさ！=It’s only natural to be talkative!#tc
-……そうか=...I see. I on the other hand
-こちらは多分寡黙だ=should probably keep mouth shut.
+……そうか=...I see. I, on the other hand,
+こちらは多分寡黙だ=should probably keep my mouth shut.
 話し相手になれそうにないな=Sorry I can’t be your conversation
 すまないことだ…=partner...
 !FILE:SYS_210.SPC
@@ -9510,7 +9510,7 @@
 ホント…合体だなんて…=You really... combined...
 あきれて二の句がつげないわ=I don’t know what to think.
 今、リーロンが合体した機体の=Right now, Leeron is studying
-装備を検討している=it’s framework.
+装備を検討している=its framework.
 もしまだ話していないなら=If you haven’t spoken to him yet,
 行ってみてくれ=go pay a visit.
 それじゃあ、これからの戦略は…=Well then, our future strategy...
