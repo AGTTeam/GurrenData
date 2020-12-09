@@ -3999,7 +3999,7 @@
 シモンのラガンで…=Simon in his Lagann#9
 !FILE:SYS_012.SPC
 よぅ、おつかれさん！=Hey, nice work!
-敵のガンメンをのっとっちまう=Hijacking an enemy gunmen is
+敵のガンメンをのっとっちまう=Hijacking an enemy Gunmen is
 なんて、大手柄だな！=quite the achievement!
 い、いえ、兄貴のやった=W-Well it was Bro who managed
 ことだから……俺なんて……=it, so... I don’t...
