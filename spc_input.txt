@@ -3516,7 +3516,7 @@
 それが俺達グレン団なんだよ！=the impossible possible!
 石ころが地面に落ちることが=That's the way Team Gurren rolls!
 道理だったとしても…=!
-……………=[]Even if there’s a reason why|the stone falls to the ground...
+……………=[03]Even if there’s a reason why|the stone falls to the ground...
 関係ねぇ！=It doesn’t matter!
 そんなことが=That’s what happened in Littner
 リットナー村であったと…=Village...
@@ -7208,10 +7208,10 @@
 は…しかし父上=Yes... But, Father...
 ヤツらの増長ぶりは=I could not overlook their growing
 目に余るものがあり…=impudence...
-父……か=Father... huh?
+父……か=[39]Father... huh?
 滑稽だな=What a joke.
-は？=Sire?
-もうたわむれは=I think the time for making jokes
+は？=[0a]Sire?
+もうたわむれは=[39]I think the time for making jokes
 終わりだと言っておる=is over.
 な…なにを=W...What are you saying?
 おっしゃっているのですか？=!
@@ -7219,11 +7219,11 @@
 まだわからぬのか=You still do not understand?
 お前はワシの息子でもなければ=You are neither my son, nor Nia’s
 ニアの兄でもない=brother.
-…し、しかし私は父上に育てられ…=...B-But, Father, you were the one|who raised me...
-ただの獣人であるお前が=Your father was nothing more than
+…し、しかし私は父上に育てられ…=[0a]...B-But, Father, you were the one|who raised me...
+ただの獣人であるお前が=[39]Your father was nothing more than
 ワシを父、と？=a common Beastmen.
-じゅ、獣……人？？=B-Beast...men??
-己の姿を今一度よく見てみるがいい=Take a good look at yourself.
+じゅ、獣……人？？=[0a]B-Beast...men??
+己の姿を今一度よく見てみるがいい=[39]Take a good look at yourself.
 こ、これは！！=T-This is--!!
 な、なぜ！！=W-Why!?
 獣人はすべてこの=All Beastmen were...
@@ -7559,7 +7559,7 @@
 それが俺達グレン団なんだよ！=the impossible possible!
 石ころが地面に落ちることが=That's the way Team Gurren rolls!
 道理だったとしても…=!
-……………=[]Even if there’s a reason why|the stone falls to the ground...
+……………=[03]Even if there’s a reason why|the stone falls to the ground...
 関係ねぇ！=It doesn’t matter!
 あの男の言うこと……=That’s what that guy said...
 ロージェノム様のお言葉と=It seems he is worthy of
