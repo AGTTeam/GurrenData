@@ -1331,7 +1331,7 @@
 中味をくれたのはお前だ=my bluffing.
 俺の『進め』に中味を=My drive to keep moving forward
 くれたのはお前なんだよ=all came from you.
-掘って穴が空いてるはずなのに…=It was supposed empty tunnels you|were digging, but...
+掘って穴が空いてるはずなのに…=It was supposed to be empty|tunnels you were digging, but...
 ……中味がよ=...they’re full.#tc
 埋まるんだ……=Overflowing...
 不思議だよ……ホントにな=It’s strange, really!
@@ -1343,7 +1343,7 @@
 兄貴と…このまま=With you... just like this, always
 ずっと、先に進みたい…=moving forward together...
 いつまでも=Forever.
-いつ…までも……=For...ever...
+いつ…までも……=And ever...
 ……=...
 そうだな=Me too.
 でも……=But...
@@ -1352,8 +1352,8 @@
 …………=...
 こうしてグレンの=That’s why, when I’m holding
 操縦桿を握っていると…=Gurren’s wheel like this...
-お前の全てが…=I can feel your whole being...
-この体にいきわたる気がする=spreading through my body.
+お前の全てが…=I can feel your everything...
+この体にいきわたる気がする=flowing through my body.
 ………=...
 そうだ…=Right...
 お前の信じたお前がいる=The you who believes in yourself|is here.
@@ -3999,7 +3999,7 @@
 シモンのラガンで…=Simon in his Lagann#9
 !FILE:SYS_012.SPC
 よぅ、おつかれさん！=Hey, nice work!
-敵のガンメンをのっとっちまう=Hijacking an enemy gunmen is
+敵のガンメンをのっとっちまう=Hijacking an enemy Gunmen is
 なんて、大手柄だな！=quite the achievement!
 い、いえ、兄貴のやった=W-Well it was Bro who managed
 ことだから……俺なんて……=it, so... I don’t...
@@ -7587,17 +7587,17 @@
 自分でも怖いんだ……=I’m scared for myself too...
 …獣人としての=...I haven’t forgotten my duty as
 本分を思い出した…=a Beastman...
-そう受け取っていいな？=Maybe it’s time to take things|into my own hands.#tc
+そう受け取っていいな？=Maybe it’s time to take things|into my own hands.
 ……………=...
 ぎゃ～～～～～！！！=EeekCUS(WAVE)CUS(WAVE)CUS(WAVE)!!
 そう、たとえ=Yes, no matter what
 人間が何であろうと！=those humans do...
-俺様は………=The sleeping child|will be woken...
-寝た子は起き、=and the crying child
-泣く子は黙る！=will be silenced!
-特別遊撃部隊長だ！！=I am the captain...
-行くぞ！=of the special Search
-メガヘッズに乗れ！！=and-Destroy Squadron!>>Let’s go!|Get in Megaheadz!
+俺様は………=I am the captain...
+寝た子は起き、=of the special Search
+泣く子は黙る！=and-Destroy Squadron!
+特別遊撃部隊長だ！！=The sleeping child|will be woken...>>and the crying child|will be silenced!
+行くぞ！=Let’s go!
+メガヘッズに乗れ！！=Get in Megaheadz!
 ……合体する！！=...We’ll combine!!
 !FILE:SYS_107.SPC
 ケーブ様！包囲網が=They broke through
@@ -8337,7 +8337,7 @@
 ガンメン破棄命令が出たときに…=When the order to destroy all the|Gunmen was given...
 リーロンとレイテがこっそり=Leeron and Leyte hid them in
 隠しておいたらしくてな！=secret!
-皆のガンメン、そろってるぜ！=Everyone’s Gunmen are all right!
+皆のガンメン、そろってるぜ！=Our Gunmen are all safe!
 ほ、本当か！=R-Really!?
 ウソなんかつくかよ！=Why would I lie about something|like that?
 ダヤッカイザーも=The Dayakkaiser... and my King|Kittan...
@@ -8471,8 +8471,8 @@
 そう…止めなきゃな=Yeah... We have to stop it.
 ………=...
 ほらほら、元気だしなさい！=Now now, don’t look so miserable!
-シモン、月についたら=Simon, there might just be something
-いいことがあるわよ！=we can do about the moon!
+シモン、月についたら=There might just be something we
+いいことがあるわよ！=can do about the moon!
 月の本当の姿……それこそ=The moon’s true form...
 我が旗艦『カテドラル・テラ』だ=is my flagship, the “Cathedral|Terra”.
 月の内部は、おそらく=The moon’s construction is probably
@@ -8605,8 +8605,8 @@
 そういうことね！=you think of it like that!
 わかりやすく言われても=I don’t understand what’s supposed
 わからねぇな…=to be easy to understand about it.
-はいはい、男は理屈より=Of course, men care more about
-行動よ行動！！=action than acquisition!#tc
+はいはい、男は理屈より=Of course, men don’t care for
+行動よ行動！！=reason, they just take action!#tc
 でも、つまりそれって…=But in short, what you’re saying|is...
 ニアの残した思いが道しるべに=Nia left that thing as a guidepost
 なったってこと？=for us?
@@ -9645,7 +9645,7 @@
 会いたかったんじゃない=!
 一緒にいけなかった自分が=He hated himself for not being able
 悔しかったんだ=to go with him in the first place.
-だから、いける自分になって…=But now he’s a man who CAN GO...
+だから、いける自分になって…=But now he’s a man who CAN go...
 それでオヤジさんに=That's why he wanted to see his
 会いたかったんだ、多分……=father...
 それってやっぱり、おとうさんに=Doesn't that still boil down to
@@ -9663,8 +9663,8 @@
 ……俺のことは=...She didn’t ask about me.#tc
 聞いてくれないんだな=!
 ぶみ～～～～=ByuiCUS(WAVE)CUS(WAVE)!
-なんだお前、なぐさめてくれるのか=Huh, are you trying to console me?
-よしよし♪=Aren’t you a good boy?♪#tc
+なんだお前、なぐさめてくれるのか=Huh, are you trying to cheer me
+よしよし♪=up? Aren’t you a good boy?♪
 !FILE:YOKO_003.SPC
 ………=...
 本当に行っちゃうの？=Are we really going to go?
