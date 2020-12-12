@@ -7743,7 +7743,7 @@
 ちょ！　落ち着きなさい！=Woah! Calm down!
 ２人とも気合入れて！！=Both of you are so fired up!!
 シモン！！　がんばれ！！=Simon!! Good luck out there!!
-ロシウも、その…がんばって！=You too, Rossiu um... good luck!
+ロシウも、その…がんばって！=You too, Rossiu, um... good luck!
 ふんばりどころ…だな！！=We’ll stand firm!!
 そうです、ふんばりどころです！=Right, standing firm!
 皆でふんばりましょう！=Everyone, let’s stand our ground!
