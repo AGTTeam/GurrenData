@@ -767,7 +767,7 @@
 ダヤッカ=<<Dayakka
 ココ爺=<<Old Coco
 ティトリー=<<Tetori
-ジギタリス=<<Ziggitalis
+ジキタリス=<<Ziggitalis
 ケーブ=<<Cave
 チミルフ=<<Thymilph
 アディーネ=<<Adiane
@@ -791,8 +791,8 @@
 ダリー=Darry
 ダヤッカ=Dayakka
 ココ爺=Old Coco
-ティトリー=<<Tetori
-ジギタリス=<<Ziggitalis
+ティトリー=Tetori
+ジギタリス=Ziggitalis
 ケーブ=Cave
 チミルフ=Thymilph
 アディーネ=Adiane
