@@ -585,7 +585,7 @@
 ニアのところへ行こう！=Let’s go and find her!
 ぶぃ！=Bui!
 皮はえぐみが強いから=Remember, the skin is tough and
-気をつけるようにな=chewy so watch out.
+気をつけるようにな=chewy, so watch out.
 !FILE:DAYA_011.SPC
 …………=...
 相変わらずだな=You’re looking the same as always.
@@ -2067,7 +2067,7 @@
 そういうことなら、コイツだ！=Here!
 あ、これは兄貴が=Ah, Bro’s caught one of these
 前に捕まえたことがある！=before!
-トビタヌキだ！=It’s a Flying Racoon!
+トビタヌキだ！=It’s a Flying Raccoon!
 …ま、食うところは=...Well, there are only a few
 少ないんだがな、味はいいぜ！=parts of it that are edible,>>but they’re good!
 ハラミはとろけるようだぜ！=The skirt steak melts in your|mouth!
@@ -2142,7 +2142,7 @@
 それならちょうどよかった！=Well, this should work nicely!
 はい、これ！=Here!
 ヌメリブドウカバだよ！！=It’s a Slime Grape Hippo!!
-すっごくヌメヌメしてるよ！=It’s really slimey!
+すっごくヌメヌメしてるよ！=It’s really slimy!
 み、見ればわかるよ=Y-Yeah, I can see that.
 ヌメヌメしてそうだ=!
 た、食べられるの？　これ…=I-Is this really edible...?
@@ -2154,7 +2154,7 @@
 ちょうどさばこうと思ってたのよ=We were just thinking about heading|to the kitchen to get started.
 でも、料理してもらえるなら=But if you’re handling the cooking,
 私達はリーロンの手伝いするわ=then we can go and help Leeron.
-うん！　ダイグレンの整備=When it comes to maintenance, any
+うん！　ダイグレンの整備=When it comes to maintenance,
 少しでも人が多いほうがいいって=extra hands are always welcome.
 そう…わかった=Ah... I see.
 じゃ、コレもらっていくね=Then, I’ll take this.
