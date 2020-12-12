@@ -7221,8 +7221,8 @@
 ニアの兄でもない=brother.
 …し、しかし私は父上に育てられ…=[0a]...B-But, Father, you were the one|who raised me...
 ただの獣人であるお前が=[39]Your father was nothing more than
-ワシを父、と？=a common Beastmen.
-じゅ、獣……人？？=[0a]B-Beast...men??
+ワシを父、と？=a common Beastman.
+じゅ、獣……人？？=[0a]B-Beast...man??
 己の姿を今一度よく見てみるがいい=[39]Take a good look at yourself.
 こ、これは！！=T-This is--!!
 な、なぜ！！=W-Why!?
@@ -7233,7 +7233,7 @@
 己のものではない=not their own.
 で、では私は……=T-Then I...
 見ての通り=As you can see...
-ただの獣人…= >>you are just an|ordinary Beastmen...
+ただの獣人…= >>you are just an|ordinary Beastman...
 ワシの『気まぐれ』だ=A “whim” of mine.
 余興にしては=It was rather fun for
 なかなか楽しめたがな=a sideshow.
