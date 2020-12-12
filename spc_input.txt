@@ -3029,7 +3029,7 @@
 あ、なんかいい匂いだ…=Ah, it smells good...
 ぶぃ～！=BuiiCUS(WAVE)!
 さて、次はっと…=Now then, next is...
-皮をはぐ=<<Peel the skin
+皮をはぐ=<<Use the skin
 身を使う=<<Use the body
 これは皮が美味しそうですわ=This skin looks delicious.
 か、皮は確かダメなんじゃ=W-Wasn’t the skin a no-go...?
