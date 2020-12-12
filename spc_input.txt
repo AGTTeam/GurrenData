@@ -3029,7 +3029,7 @@
 あ、なんかいい匂いだ…=Ah, it smells good...
 ぶぃ～！=BuiiCUS(WAVE)!
 さて、次はっと…=Now then, next is...
-皮をはぐ=<<Peel the skin
+皮をはぐ=<<Use the skin
 身を使う=<<Use the body
 これは皮が美味しそうですわ=This skin looks delicious.
 か、皮は確かダメなんじゃ=W-Wasn’t the skin a no-go...?
@@ -3100,7 +3100,7 @@
 グレンラガンのパワー調整を……=Lagann’s power regulation...
 ま、とにかく一口=Well, that aside, try a bite of|this.
 え、あ、はい…=Huh? Oh, right...
-これは……モグ…=I’ll have a sip...
+これは……モグ…=I’ll have a bite...
 ……………=...
 ……………どう？=...How is it?
 け=Geh.
@@ -3723,14 +3723,14 @@
 ずっとあのままでしょうね=you’ll stay that way forever...
 思うのですよ…=So one would imagine...
 僕はどうして、この戦いに=I’ve been wondering... why?
-身を投じているのかと…= >>Why am I putting my life on the|line for this fight...?
+身を投じているのかと…= >>Why am I putting my life on the|line...?
 ………ロシウ=...Rossiu.
 最近わかりました=I only recently came to understand|it. It’s because “I want to know”.
 『知りたい』のです=What’s going to happen to this
 この世界がどうなっているのか=world?
 獣人とは、螺旋王とは何か…=What are the Beastmen, and the|Spiral King...?
 戦いも、あと少しですね=There’s only a bit further to go|before our final fight.
-ああ、終わらせないとな！=Yeah, we have to end this!
+ああ、終わらせないとな！=Yeah, we have to finish this!
 !FILE:SPK_0001.SPC
 カミナ=
 ふきだしチェック！！=
@@ -7275,7 +7275,7 @@
 反応……消滅しました……=vanished.
 さよなら、作り物の兄様……=Goodbye, my false brother...
 お父様……やはりあなたは=Father... This makes it all the
-間違っています…！！=more clear, you are in the wrong!
+間違っています…！！=more clear you are in the wrong!
 ……ニア……=...Nia...
 いよいよね=That’s finally over.
 うん=Yeah. Now, all we have left is to
@@ -7288,12 +7288,12 @@
 いいのよ=It’s all right. We have no choice
 本当にこれで終わりにしなきゃ=but to settle things here.
 こっちがもうもたないわ=None of us can take much more of|this.
-遊びも終いか=Playtime’s over, huh?
+遊びも終いか=Playtime’s over, eh?
 一隻にしては=One could say that he fought well
 よくやったほうかと=for only having a single ship.
 やはり、即席の獣人や=But in the end, a young Beastman
 若者では頼りないのぅ=who acts without thinking...>>was never going to amount to much.
-そう言うな、グアームよ…=Don’t say that, Guame...
+そう言うな、グアームよ…=Don’t presume that, Guame...
 余興としてはなかなかの=He managed to reach impressive
 レベルに達しているではないか=heights, for a sideshow.
 ……せいぜい楽しんで=We can appreciate the pleasant
@@ -7652,7 +7652,7 @@
 むばっ！！=Urk!!
 行って来る=Get going.
 はは！！=Y-Yes, sir!!
-それではテッペリンにて！=Then, I’ll make way for Teppelin!
+それではテッペリンにて！=Then, I’ll make way to Teppelin!
 シュザック……出るぞ！！=It’s high time... Shuzack makes an|appearance!
 !FILE:SYS_110.SPC
 整備室へ行きますか？=Go to the maintenance|room?
