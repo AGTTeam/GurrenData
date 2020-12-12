@@ -7603,7 +7603,7 @@
 ケーブ様！包囲網が=They broke through
 突破されました！=our encirclement!
 わかっている！=I see.
-空から攻める！=Then, We’ll attack|from the sky!
+空から攻める！=Then, we’ll attack|from the sky!
 飛行ガンメンを出せ！=Send out the flying|Gunmen!
 ……は！=...Yes sir!
 ち！！=Tch!!
