@@ -7652,7 +7652,7 @@
 むばっ！！=Urk!!
 行って来る=Get going.
 はは！！=Y-Yes, sir!!
-それではテッペリンにて！=Then, I’ll make way for Teppelin!
+それではテッペリンにて！=Then, I’ll make way to Teppelin!
 シュザック……出るぞ！！=It’s high time... Shuzack makes an|appearance!
 !FILE:SYS_110.SPC
 整備室へ行きますか？=Go to the maintenance|room?
