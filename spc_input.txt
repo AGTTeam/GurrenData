@@ -3723,14 +3723,14 @@
 ずっとあのままでしょうね=you’ll stay that way forever...
 思うのですよ…=So one would imagine...
 僕はどうして、この戦いに=I’ve been wondering... why?
-身を投じているのかと…= >>Why am I putting my life on the|line for this fight...?
+身を投じているのかと…= >>Why am I putting my life on the|line...?
 ………ロシウ=...Rossiu.
 最近わかりました=I only recently came to understand|it. It’s because “I want to know”.
 『知りたい』のです=What’s going to happen to this
 この世界がどうなっているのか=world?
 獣人とは、螺旋王とは何か…=What are the Beastmen, and the|Spiral King...?
 戦いも、あと少しですね=There’s only a bit further to go|before our final fight.
-ああ、終わらせないとな！=Yeah, we have to end this!
+ああ、終わらせないとな！=Yeah, we have to finish this!
 !FILE:SPK_0001.SPC
 カミナ=
 ふきだしチェック！！=
