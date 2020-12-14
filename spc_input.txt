@@ -7521,7 +7521,7 @@
 うん！=Yeah!
 おかえり！=Welcome home!
 シモン兄ちゃん！！=Big Bro Simon!
-おかえりー！=Welcome homeee!
+おかえりー！=Welcome hooome!
 ギガンチョおかえり！=A gigancho-welcome back!
 ギガンチョ心配してたじょー！！=I was gigancho-worried, you know!!
 ああ、ただいま！=Yeah, I’m home!
