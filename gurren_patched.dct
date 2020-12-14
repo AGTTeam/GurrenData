@@ -5,14 +5,13 @@ Serial=NTR-YGRJ-JPN
 ; cheats list
 AR 0 02128C5400636363 ;Unlock all 99 armour chips
 AR 0 22128B820000003F ;Unlock all skill slots
-AR 0 92139CB80000FFFF,02139CCC00000000,D000000000000000 ;Heat gauge doesn't fill up (no overheating)
+AR 0 92139CB80000FFFF,02139CCC00000000,D000000000000000 ;Stop heat gauge filling up (no overheating)
 AR 0 94000136FFFE0000,D500000000000001,C0000000000000C6,D800000002128B89,D200000000000000,D000000000000000 ;Press [X] to unlock all skills
 AR 0 94000136FFFE0000,D500000000000064,C0000000000000C6,D800000002128ABB,D200000000000000,D000000000000000 ;Press [X] to raise all skills to MAX
-AR 0 92139CB80000FFFF,DA00000002139D7C,D700000002139D78,D200000000000000,DA00000002139D7C,D700000002139D38,D200000000000000,D000000000000000 ;The HP of your first ally won't decrease.
-AR 0 94000130FEBF0000,DA0000000213A250,D70000000213A24C,D200000000000000,DA0000000213A250,D20000000213A20C,D000000000000000 ;Press [R+^] to recover the health of your 2nd ally. (Don't use this command if there's only 1 ally, as you'll also heal an enemy.)
+AR 0 92139CB80000FFFF,DA00000002139D7C,D700000002139D78,D200000000000000,DA00000002139D7C,D700000002139D38,D200000000000000,D000000000000000 ;HP doesn't decrease.
+AR 0 94000130FEBF0000,DA0000000213A250,D70000000213A24C,D200000000000000,DA0000000213A250,D20000000213A20C,D000000000000000 ;Press [R+^] to recover the health of an ally. (Don't use this command if you're alone, as you'll also heal an enemy.)
 AR 0 92139CB80000FFFF,C000000000000005,02139DD800064000,22139DDC00000000,DC00000000000014,D200000000000000,D000000000000000 ;Skill gauges are always full (lock-on is always possible), and you can still use the skill even if the part it is equipped to is destroyed.
 AR 0 94000130FD7F0000,02128C94000029F5,D000000000000000 ;Press [L+v] to fast forward 3 minutes. (For when you have to defend an ally for 3 minutes e.t.c)
-AR 0 94000130FEDF0000,1213A24C00000000,D000000000000000 ;Press [R+<] to reduce the first enemy's HP to 0 (kill them in one hit) Note: If you have 2 allies, don't use this code, as it will affect them too. Enemies that appear after you've used the command won't be affected, so you'll need to input it again.
-AR 0 94000130FE7F0000,1213A72000000000,1213ABF400000000,1213B0C800000000,D000000000000000 ;Press [R+v] to reduce the second enemy's HP to 0 (kill them in one hit)
+AR 0 94000130FEDF0000,1213A24C00000000,D000000000000000 ;Press [R+<] to reduce the first enemy's HP to 0 (one hit kill) *If you have an ally, don't use this code, as it will affect them too. 
+AR 0 94000130FE7F0000,1213A72000000000,1213ABF400000000,1213B0C800000000,D000000000000000 ;Press [R+v] to reduce the second enemy's HP to 0 (one hit kill) Enemies that appear after you've used the command won't be affected, so you'll need to input it again.
 AR 0 0211096045445F53,0211096400475542 ;Enable debug map on New Game
-
