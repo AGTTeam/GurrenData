@@ -7537,7 +7537,7 @@
 本当に……=Really......
 ありがとう♪=Thank you so much♪
 「テッペリン攻略戦・=Battle of Teppelin...
-王都テッペリン陥落」= >>The Royal Capital;|Fallen.
+王都テッペリン陥落」= >>The Royal Capital:|Fallen.
 セーブしますか？=Save your game?#doesn’t appear?
 はい=<<Yes#
 いいえ=<<No#
