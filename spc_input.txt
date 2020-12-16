@@ -8000,7 +8000,7 @@
 正体不明機の解析を急がせろ=Give top priority to identifying|that ship.
 はい、すでに破片サンプルを=Yes, sir. I’ve already delivered a
 リーロンの元に届け済みです=sample of the fragment to Leeron.
-時代は……変わっている…=Times are... changing.
+時代は……変わっている…=Times... are changing.
 あなたは…変わりたく…=But you... don’t want to change...
 ないのか………シモン……=Simon...
 !FILE:SYS_206.SPC
