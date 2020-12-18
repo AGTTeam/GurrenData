@@ -8140,7 +8140,7 @@
 シモン……！=!
 くそっ！=Damn it!
 何でこんなことになる！=Why has it come to this!?
-大変よ！=It’s an emergency!
+大変よ！=There’s an emergency!
 今度は何だ！！=What now!?
 超弩級エネルギー反応……=We’ve detected several large energy
 多数確認！！！=signatures!
