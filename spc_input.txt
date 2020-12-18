@@ -8081,7 +8081,7 @@
 螺旋力発動の=whatever mecha it
 コアマシン……=it combines with.
 我々の最強兵器、=It was one of our
-地下に封印していたが=most powerful weapons>>Though I sealed it|underground...
+地下に封印していたが=most powerful weapons.>>Though I sealed it|underground...
 人間が見つけるとは…=it was found by|humans.
 それも因果よの…=Fate’s hand at work|again...
 銀河を制圧したアンチスパイラルは=The Anti-Spirals, surveyors of the
@@ -8117,9 +8117,9 @@
 ならば、どうやって=Then, tell me how--!
 人間を=What does it do to
 皆殺しにする！？=annihilate humanity!?
-三週間後、=In three weeks'|time, the moon
-月は軌道を離れ……= >>will leave|its orbit...
-地球に激突する……=and crash to Earth...
+三週間後、=In three weeks' time,
+月は軌道を離れ……=!
+地球に激突する……=The moon will leave its orbit and|crash to Earth...
 それで……=And that...
 終わりです=Will be the end of it.
 ニア……？？　ニアーーーー！！=Nia...? NIAAAAAAA!!
@@ -9414,7 +9414,7 @@
 そして処刑される、か！=to have it all ended by your|execution, eh!?
 それが、俺達を滅ぼしてまで=Is that the future you won for
 掴んだ明日なのか！！=yourselves by destroying us?
-そんな事は……=That’s...unforgivable!
+そんな事は……=That’s... unforgivable!
 俺が許さない！=!
 許してもらおうなんて=I never asked anyone for
 思ってない、誰にもな！=forgiveness!
