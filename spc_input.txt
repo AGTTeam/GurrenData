@@ -8025,8 +8025,8 @@
 さあ、=Now, tell me.
 聞かせてもらおうか=!
 螺旋の力とは=Spiral Power...
-アンチスパイラルとは=and the Anti-Spirals,
-なんだ！=what are they?
+アンチスパイラルとは=and the Anti-Spirals.
+なんだ！=What are they?
 僕たち人間と=What do they have to
 何の関係があるんだ！=do with humanity?!
 !FILE:SYS_207.SPC
