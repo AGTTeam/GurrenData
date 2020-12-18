@@ -9338,12 +9338,12 @@
 閉廷します=Court is adjourned.
 くっそ！！=Damn it!! Is there no way we can
 納得いかねぇ！！=come to an agreement!?
-しかし、皮肉なものだな=Still, it’s ironic that the core
-そのコアドリル……=drill, the source of your power,
+しかし、皮肉なものだな=Still, it’s ironic that the Core
+そのコアドリル……=Drill, the source of your power,
 お前の力の源は=would turn out to be the cause of
 人類の災厄の種だったわけだ=humanity’s downfall.
 ……お前こそ減らず口を！=...Now you’re the one who’s|answering back uninvited!
-このコアドリルにお前達は=This is the core drill you Beastmen
+このコアドリルにお前達は=This is the Core Drill you Beastmen
 負けたんだろうがっ！=lost!
 月激突から国民を守るため=To protect its citizens from the
 政府は大規模な避難計画を実施=impending lunar impact,>>the government will carry out a|large-scale evacuation plan.
