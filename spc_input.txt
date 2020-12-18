@@ -8801,7 +8801,7 @@
 コードネーム：ムガン=codename “Mugann”, has appeared
 また出現しました！=again!
 むがん？　何だそりゃ！=Mugann? What the hell is that!?
-シティを襲う正体不明機…=That machine from earlier which
+シティを襲う正体不明機…=That machine from earlier that
 そのコードネームよ=attacked the city.
 ボディの回りに強力なエネルギー=It seems a powerful energy field
 フィールドが形成されていて…=is erected around the body...
