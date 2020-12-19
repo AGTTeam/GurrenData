@@ -8719,7 +8719,7 @@
 うん！　さすがに疲れたよ…=Yeah! I didn’t think I’d be this|worn out...
 ぶぃ！=Bui!
 !FILE:SYS_224.SPC
-月戦艦が逆噴射しました！=The moon battleship has fired its|retro rockets!
+月戦艦が逆噴射しました！=The moon battleship has engaged its|retro rockets!
 ゆっくりと元の軌道上に=It's slowly climbing back into its
 戻っていきます！！=old orbit!!
 ほんとになんとか=He really did manage to pull a
