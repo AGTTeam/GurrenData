@@ -8273,13 +8273,13 @@
 いいのかこれで！=stand there and take this!?
 …………=...
 !FILE:SYS_213.SPC
-だから何で=Like - I - said: What the hell
-ウロウロするっ！=are you still >>loitering around here for!?
-だからうるせぇって=And like I said; shut up!!
-言ってるんだよっ！！=!
-だから何で=Like-I-said; What the hell are you
+だから何で=Like -I- said: What the hell are you
 ウロウロするっ！=still loitering around here for!?
-だからうるせぇって=And like I said; shut up!!
+だからうるせぇって=And like I said: Shut up!!
+言ってるんだよっ！！=!
+だから何で=Like -I- said: What the hell are you
+ウロウロするっ！=still loitering around here for!?
+だからうるせぇって=And like I said: Shut up!!
 言ってるんだよっ！！=!
 まったく……=Honestly...
 帰ってきたらと思えば=The place you’re thinking of...
