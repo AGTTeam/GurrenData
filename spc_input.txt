@@ -8398,7 +8398,7 @@
 !FILE:SYS_215.SPC
 アークグレン航路上敵です！！=There are enemies in our path!
 これは…ムガン！！！=It’s... the Mugann!!
-無数……大量！！！=A... countless number!!!
+無数……大量！！！=There's... a countless number!!!
 ダメだ…！！=It’s hopeless...!
 この数では…とても……！！=Against this many...!!
 …防ぎきれない！=...Our defences won’t hold up!
