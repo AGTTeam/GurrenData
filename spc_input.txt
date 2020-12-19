@@ -24,7 +24,7 @@
 る吹き出し=
 もあるよ！=
 !FILE:ANA_01.SPC
-グレンハウス入り口=Gurren’s Lodgings#tc
+グレンハウス入り口=Gurren’s Lodgings#Actually Gurren House Entrance, but won’t fit
 !FILE:ANA_02.SPC
 グレンハウス１Ｆ=Gurren’s Lodgings 1F
 !FILE:ANA_03.SPC
@@ -91,7 +91,7 @@
 何を言ってるのかは=I really don’t know what it’s
 わからないけど……=trying to say, but...
 こいつの思っていること、=I think I can kind of understand
-感情みたいなものはわかる…な=what it’s feeling...#tc
+感情みたいなものはわかる…な=what it’s feeling...#“I can tell that it has feelings” or “the things it’s trying to express are like feelings”.
 ぶみぃ～～…=ByuiiiCUS(WAVE)CUS(WAVE)...
 聞いてくれよ！　俺、すげぇの=Listen to this!
 見つけたんだ！！=I found something amazing!!
@@ -592,9 +592,9 @@
 …………=...
 どうにも気の毒だね=What a pity.
 確かに…子供が負うには=Yeah... It’s too heavy a burden
-あまりにも重い責任だぜ=for a child to have to bear.
-できることなら=I would change places with him in
-代わってやりたいもんだけどね=an instant if I could.#tc Simon or Nia?
+あまりにも重い責任だぜ=for children to have to bear.
+できることなら=I would change places with them in
+代わってやりたいもんだけどね=an instant if I could.#I don’t entirely remember the scene, but I think it’s probable they meant all the younger kids.
 元気出せよ=You have to try and cheer up.
 やるしかないんだしな=!
 !FILE:DEB_BAT.SPC
@@ -1224,7 +1224,7 @@
 何言ってんだよ=What are you talking|about?
 リーダーじゃないか…=You are the leader...
 今でも=Even now.
-へ、言うぜ！=Heh, what are you|saying?#tc
+へ、言うぜ！=Heh, what are you|saying?#More like “Look who’s talking”, but this probably works better.
 俺より背伸びてんじゃ=You’ve gotten taller
 ねぇかよ！=than me.
 自分のなり=Take a good look at
@@ -1332,7 +1332,7 @@
 俺の『進め』に中味を=My drive to keep moving forward
 くれたのはお前なんだよ=all came from you.
 掘って穴が空いてるはずなのに…=It was supposed to be empty|tunnels you were digging, but...
-……中味がよ=...they’re full.#tc
+……中味がよ=...they’re full.
 埋まるんだ……=Overflowing...
 不思議だよ……ホントにな=It’s strange, really!
 ……兄貴=...Bro.
@@ -1420,7 +1420,7 @@
 気をつけないと=Careful, he might
 穴掘られるかもよ！=drill a hole in us!
 ……………………………………=........................
-掘ったりするもんか…………=I wouldn’t do something like|that...#tc
+掘ったりするもんか…………=I wouldn’t do something like|that...#Literally “As if I’d do something like drilling (like that)”
 !FILE:EV_005.SPC
 ……………=.................
 顔みてぇなやつって=So, the thing you
@@ -1526,7 +1526,7 @@
 パネルが渦まいてる=swirly!
 みんな珍しいみたいだ……=Everyone seems so different...
 俺はこんなの初めて見たから=It’s the first time I’ve seen so
-珍しいなんてもんじゃないけど=many new people,>>calling this strange is an|understatement.#tc
+珍しいなんてもんじゃないけど=many new people,>>calling this strange is an|understatement.#literally uncommon/a rare occurrence
 !FILE:EV_DIG.SPC
 シモン=
 ん……？=
@@ -1879,8 +1879,8 @@
 ちゃんと考えて行動してやがる=the edges...>>but she was using her own head to|think about what she wanted.
 …そんな気がするんだよ=...That’s the impression I got.
 …自分で考える……か…=...Thinking for herself... huh...?
-とか何とか理屈こねるのは=Or something. I just went with
-性分じゃねぇな！=my gut, you know?>>Screw dwelling on things!#tc
+とか何とか理屈こねるのは=Or something. It’s not in my
+性分じゃねぇな！=nature to nitpick everything!
 はは、そうかもね！=Haha, you might be right.
 ま、気にしても変わらんなら=Well, if thinking about things
 気にしないほうが得ってもんだ！=gets you nowhere...>>then it’s gotta be better not to|worry, right?
@@ -2454,7 +2454,7 @@
 わかるもんじゃないよな…=you'd just know...
 !FILE:LEER_006.SPC
 ＯＫ！=Nice work! That's pretty much all
-だいたいそんな感じよ♪=there is to it♪#qc
+だいたいそんな感じよ♪=there is to it♪
 カスタマイズしたい時は=Come to me whenever you’d like to
 私のところに来てね！=make some customisations!
 私もグレンラガンにどんな兵装を=I’ll stay up all night thinking
@@ -2591,8 +2591,8 @@
 ないわね、周りの情報は=No, it’s picking up the surrounding
 差異なく拾えているもの=areas without any fluctuations.
 どういうことかしら…=What could it mean...?
-わけのわからない連中だもの=I haven’t the slightest. This might
-こんなこともあるのかもね=just be what they’re like.#tc
+わけのわからない連中だもの=I haven’t the slightest. I guess
+こんなこともあるのかもね=there are things like this too.
 （…普段は理論派なのに、時々=(...He’s normally such a stickler
 　投げやりな結論出すわね…）=for theory...>>but I guess sometimes even he|comes up with a random answer.)
 その投げやりな部分ときっちり=I have to consider both the logical
@@ -2844,7 +2844,7 @@
 出たって…どうやって掘ったの？=There’s water? ...How did you|manage to get it to come out?
 適当に掘ったら出たわ♪=It started flowing after we dug|properly♪
 ……俺のドリルって…=...Does that mean...
-適当以下なのか？？？=My drill isn’t good enough...?#tc
+適当以下なのか？？？=My drill wasn’t good enough...?
 ま、いいじゃない♪=Well, it’s all sorted now♪
 ん？=Hm?
 ん？　誰！？　って=Who!?
@@ -3012,7 +3012,7 @@
 …ばかね、ホントに…=...Swiss cheese for brains indeed...
 !FILE:MINI_03.SPC
 食材を料理しましょう=It’s time to cook|the ingredients.
-美味しいかそうで=Appearances aside...#tc
+美味しいかそうで=Appearances aside...
 ないかは別として…=!
 これはどう料理しましょう…=How should I prepare this...?
 顔の部分を使う=<<Use the face portion
@@ -3245,7 +3245,7 @@
 …じゃなかった=...But, don’t
 当てないようにしよう=actually hit him.
 じゃなくて=Or, maybe you
-やっぱり狙え！！=should...!#tc
+やっぱり狙え！！=should...!# “Scratch that, aim!” (hit him!)
 いって！！！=OUCH!!!
 いてぇ！=Damn!
 ものすごくいてぇ！！=That really hurt!!
@@ -3380,7 +3380,7 @@
 そんなの…嘘ですっ！=<<That’s... A Lie!
 残念ながら楽しいです♪=<<I Regret To Say...
 シモン、手をどけて！=<<Simon, Hands Off!
-貴方も作られた王子です=<<You’re Also Manufactured!
+貴方も作られた王子です=<<You’re Manufactured!
 シモン！出番です！=<<Simon! It’s Your Turn!
 これは私達のお家です１=<<This Is Our Home 1
 これは私達のお家です２=<<This Is Our Home 2
@@ -3394,7 +3394,7 @@
 なぜ楽な道を行く！=<<Why Take The Easy Way!?
 聞かせてもらうぞ１=<<Tell Me The Secrets 1
 聞かせてもらうぞ２=<<Tell Me The Secrets 2
-生き残るべき人だ=<<Someone Who Ought to Survive
+生き残るべき人だ=<<You Must Survive
 僕の最後の義務だ１=<<My Final Duty 1
 僕の最後の義務だ２=<<My Final Duty 2
 そこをどけ、ニア！=<<Get Out Of The Way, Nia!
@@ -3568,9 +3568,9 @@
 シモン『総司令』殿…！=on, “Supreme Commander” Simon...!
 ……………=...
 ロシウ…お前、変わったな=Rossiu... You’ve changed.
-変わったうちに入りません=Everything has changed.#tc
-……このカミナシティや=...This Kamina City, and the hearts
-人々の心に比べれば……ね=of its citizens...
+変わったうちに入りません=This doesn’t count.
+……このカミナシティや=...Not if you compare it to how
+人々の心に比べれば……ね=Kamina City,>>and the hearts of its citizens|have changed...
 !FILE:ROSI_005.SPC
 敵機の解析作業は？=How is the analysis of the enemy|ship coming along?
 難航していますね=It’s hard going.
@@ -3815,7 +3815,7 @@
 ノーサンキュー…=Yeah...
 スキン＆ミート=Really something...
 スキンが皮、ミートが肉って=Wait a sec, are you being
-……皮肉かよ！！=sarcastic!?#tc
+……皮肉かよ！！=sarcastic!?
 ぶぃ！！=Bui!!
 お前も無事だったか！=So you’re safe too!
 ぶぃぶぃ！=Bui bui!
@@ -4028,7 +4028,7 @@
 ガンメンだ=another like it.
 とっつかまえて=If I can just get a
 持ち帰れば……=hold of that Gunmen,
-あたしの株…=my stock...#tc
+あたしの株…=my stock...
 ギガンチョ急上昇=will no doubt
 まちがいなし！=gigancho-zoar up!
 うひひっと！=Tee hee hee!
@@ -4088,8 +4088,8 @@
 言いなさい！！=Answer me!!
 あ、あれ？=O-Oh?
 リットナーの人じゃないの？=She’s not from Littner Village?
-知らないわよ、こんな=I don’t know anyone who talks so
-スカスカでフニャフニャしたヤツ！=sloppily!#tc
+知らないわよ、こんな=I don’t know anyone who speaks so
+スカスカでフニャフニャしたヤツ！=stupidly!
 まぁまぁ、怒鳴っても仕方ないよ=Now, nowCUS(WAVE) Yelling won’t getcha
 まずは落ち着こうじゃない？=anywhere, so...>>why don’t we start by calming down|first?
 怒鳴らせてんのは誰！！！！！=I DON’T NEED TO CALM DOWN!!!!!
@@ -4125,7 +4125,7 @@
 ぎぃ～～～～～～～！！=Grrr!!
 あんたそもそも人間なの！？=Are you even a human being!?
 だいたいそのシッポは何っ！=I mean, what’s with that tail!?
-そっちこそ=I can see it swishing around!#tc
+そっちこそ=I can see it swishing around!
 ユィンユィン動いてんじゃない！=!
 こ、これはあたしの村ではやってる=T-This iz an accessory that’z
 アクセサリ～尻尾っすー！=popular in my village! A tail!
@@ -4138,9 +4138,9 @@
 ホントだよ！=the run!
 昨日も、いっぱいのガンメンに=Even yesterday, I was attacked by
 襲われたけれど…=tons of Gunmen, but...
-すんごく逃げ腰の隊長機がいてね=Their captain seemed like a big|chicken, ready to run away.#tc
+すんごく逃げ腰の隊長機がいてね=Their captain seemed like a big|chicken, ready to run away.
 そいつが故障したら、=If his mecha breaks down, all of
-皆一緒に逃げて帰っちゃった=them will turn tail and run.#tc
+皆一緒に逃げて帰っちゃった=them will turn tail and run.
 ………=...
 じゃあ、そいつらがこの辺りに=Well, they might show up around
 現れるかもしれねぇな=here.
@@ -4377,8 +4377,8 @@
 ジギタリスたぁ…=Lord Ziggitalis...
 俺様のことだぁっ！！=That is what they call me!!
 ………ほぅ=...OohCUS(WAVE)?
-いいねぇ、獣にしちゃ=That’s nice.
-いいタンカだ！=A beast who’s also a brute!#tc
+いいねぇ、獣にしちゃ=For a Beastman, that was pretty
+いいタンカだ！=poetic!#Technically for a beast. Alternatively, “that was a nice epithet!” fits better with the conversation flow, but might be a bit too ‘fancy’ for Kamina?
 ならこちらの名も=Then, you should also remember
 覚えておいてもらおう=this...
 一度故郷を離れたからは=Having left his homeland, he never
@@ -4480,7 +4480,7 @@
 この命、キサマに預けよう=your hands.
 おいおい……=Uh...
 さ、焼くなり煮るなり=Go on then, roast me, boil me, fry
-愛でるなり、スキにしろ=me, do whatever you want with me.#tc
+愛でるなり、スキにしろ=me, do whatever you want with me.
 愛でたりするかっ！！=Who the hell would want that?!
 と、いうわけで…=So, that’s how I ended up stuck
 とっつかまえてきた=with him.
@@ -4596,7 +4596,7 @@
 帰るぞ！！=Let’s head back!
 おう、お疲れさん！=Good work out there!
 あのコの言う通り、=Just like that kid said, that
-隊長機は逃げ腰だったな！=captain was ready to leg it!#tc
+隊長機は逃げ腰だったな！=captain was ready to leg it!
 ん、まーな=Yeah, I guess so.
 お手柄だな、えーと、たしか=I’ve gotta hand it to you. Above
 ティトリーとか言ったよな……=all else, I’m sure Tetori said...
@@ -4679,7 +4679,7 @@
 兄貴、わかってたのかな…=Bro knew it somehow...
 ひゃっほーーい！！=Yippee!!
 今日の獲物は=Today’s spoils are this enemy
-敵の顔～～～♪=faceCUS(WAVE)CUS(WAVE)♪#tc
+敵の顔～～～♪=faceCUS(WAVE)CUS(WAVE)♪
 見たことない顔♪=I’ve never seen one like it in
 ダサイ顔～～～♪=this place♪>>Itz lame in any caseCUS(WAVE)CUS(WAVE)♪
 っとくらぁ！！=All mine!!
@@ -4748,8 +4748,8 @@
 ガンメンをたたきのめして=turtley Gunmen...
 それからそいつが=so that we could take it for
 のっとったんだ=ourselves.
-むしろ、助けてもらったって=But instead, it ended up aiding
-ところだな=us.#tc
+むしろ、助けてもらったって=But, we should just get it to
+ところだな=help us instead.
 ……………………=............
 え？=Huh?
 なっ！！=Wha--!!
@@ -5009,7 +5009,7 @@
 くれてたんだね！=enemy!
 い、いや？　違う=N-No? That wasn't
 違うぞシモン！？=the point, Simon!
-だが…=But...#43(#tc food pun?)
+だが…=But...#43
 シモン……=Simon...
 うん、兄貴！！=Yeah, Bro!#45
 少しは=You think you're
@@ -5331,7 +5331,7 @@
 ……な！？=...Wha-!?
 ああ、その通りだ=Yeah, you bet we are.
 わかってんだったら=If you understand that much, then
-素直にこっちによこせっ！=you should quietly give up! #tc (Whether this means give up or give yourselves up, like join us)
+素直にこっちによこせっ！=you should quietly give up!#tc Hand the Gunmen over?
 そうはいかん=That's not gonna happen. #tc (following section, up to Ziggitalis exit)
 人質としてあずからせてもらう=You’ll have to take us hostage.
 人質！？=Hostage!?
@@ -5427,7 +5427,7 @@
 早く行きなさい！=Hurry!
 さぁ、出て来い=Come on out...
 グレンラガン！=Gurren Lagann!
-てめぇか！！！=So it’s you!#
+てめぇか！！！=So it’s you!
 確かヴィラルだったな=Viral!
 んだよ=Gurren Lagann isn’t
 グレンラガンの=ready yet...
@@ -5642,7 +5642,7 @@
 やっぱりお前は…=You really are...
 最高だ！=the best!
 このケンカ………=This battle...#54
-さぁ、整備が終わったわよ！=Well, that’s the maintenance over!#tc
+さぁ、整備が終わったわよ！=Well, that’s the maintenance over!
 あとは………兄貴！！=Now all we need is... Bro!!
 カミナ……=Kamina...
 カミナ！！！=Kamina!!!
@@ -5827,7 +5827,7 @@
 そんなこと…=It’s not that...
 ヨーコこそ…=Yoko, you too...
 あら、ナマイキ言うわね=Unlike you, I actually care about
-シモンほどじゃないわ=my responsibilities, Simon.#tc
+シモンほどじゃないわ=my responsibilities, Simon.#“Oh my, what a impertinent thing to say. I'm not like you, Simon.”
 …………=...
 困ったわね=What a state.
 どうにも=There’s nothing anyone can do.
@@ -6073,8 +6073,8 @@
 ヨーコ…=Yoko...
 いいの？=Are you sure about this?
 仕方ないわよ=There wasn’t really any other|choice.
-それぞれ在りようというものが=Everyone has different reasons
-あるでしょ=for being, you know?#tc
+それぞれ在りようというものが=Everyone has their own
+あるでしょ=circumstances, you know?
 強制はできないわ=You can’t force someone to do|something.
 もう会うことも=Yeah, guess this is where our
 ないだろうな=journey together ends.
@@ -6367,7 +6367,7 @@
 いきがっている者が=You hopeless fools
 弱り=will be crushed.
 最後に=Bow before me in your
-ひれ伏す………！！=final moments...!#tc
+ひれ伏す………！！=final moments...!
 たまらんな……=This pleasure is...
 たまらん愉悦だ！！=unbearable!!
 ふははははははは！！=Wahahahahaha!
@@ -6730,7 +6730,7 @@
 しっかり頼むぞ！=Keep your eyes peeled.|We’re counting on you!
 しっかり頼むぞ！=Keep your eyes peeled.|We’re counting on you!
 やれやれ、あんな子供にも=Good grief, to think we’d have to
-仕事させるとはな…=put those kids to work too...#tc
+仕事させるとはな…=put those kids to work too...
 ねぇ、何か光ったよ？=Hey, what’s that shiny thing?
 うん？=Hm?
 うわっ！！！=Woah!!!
@@ -7297,7 +7297,7 @@
 余興としてはなかなかの=He managed to reach impressive
 レベルに達しているではないか=heights, for a sideshow.
 ……せいぜい楽しんで=We can appreciate the pleasant
-くるがよい……=diversion, at least...#tc
+くるがよい……=diversion, at least...
 ははっ！！=Yes, sire!!
 !FILE:SYS_099.SPC
 シモン、たのんだぞ！=Simon, we’re counting on you!
@@ -7641,7 +7641,7 @@
 先にロージェノム様のところへ戻れ=ahead and return to Lordgenome.
 は、なんと！？=Yes si—what!?
 『人間とは何かを教えてやる』=“The humans have been put in their
-そうおっしゃっていた=place.”>>That’s what you are to tell him.#tc
+そうおっしゃっていた=place.”>>That’s what you are to tell him.#tc This is wrong, it’s actually something Lordgenome said, which reads as “I’ll tell you what humans are”, but I feel like that doesn’t quite make sense.
 な、な……！？=W-What...!?
 ヴィラルよ=Viral.
 は！！=Yes, sir!!
@@ -7684,7 +7684,7 @@
 容赦ないな…=They’re not going easy on us...
 機関部！　いけるか！=Are the parts ready?
 いけないっつったら=Would you forgive us if they
-許してくれるのかい！？=weren’t!?#tc
+許してくれるのかい！？=weren’t!?
 そんなわけないでしょ！=Not likely!
 よし、空中からのガンメンを=We need to pursue them whilst
 かわしつつ、追撃！！=avoiding the Gunmen from the sky!!
@@ -8184,9 +8184,9 @@
 入ってくるからな=outside world in here.
 お前がどんなに面白いことに=I always knew you were going to
 なっているかは知っていた=be an interesting one.
-お前にあったら一言、いや二言=If you’re around, I’ll never be
-くらいは言いたい事があった…=short of things to say...
-饒舌（じょうぜつ）にもなるさ！=It’s only natural to be talkative!#tc
+お前にあったら一言、いや二言=There are plenty of things I’d
+くらいは言いたい事があった…=like to say to you...
+饒舌（じょうぜつ）にもなるさ！=It’s only natural to be talkative!
 ……そうか=...I see. I, on the other hand,
 こちらは多分寡黙だ=should probably keep my mouth shut.
 話し相手になれそうにないな=Sorry I can’t be your conversation
@@ -8446,8 +8446,8 @@
 たまらないな！=any challenge!
 当たり前だ！=Of course!
 俺を誰だと思ってやがる！=Who the hell do you think I am?!
-ふ…考えてみたらこのノリで俺は=Heh... Seems like you’ve got me
-翻弄させられ続けたわけだからな=hooked by it too.#tc
+ふ…考えてみたらこのノリで俺は=Heh... Seems like you’ve been
+翻弄させられ続けたわけだからな=stringing me along with that too.
 いったんアークグレンに戻るぞ=Let’s return to the Arc-Gurren for|the time being.
 月が落ちるまで時間がないぞ？=We don’t have much time until the|moon falls.
 戻ってどうするつもりだ？=What are you planning?
@@ -8606,7 +8606,7 @@
 わかりやすく言われても=I don’t understand what’s supposed
 わからねぇな…=to be easy to understand about it.
 はいはい、男は理屈より=Of course, men don’t care for
-行動よ行動！！=reason, they just take action!#tc
+行動よ行動！！=reason, they just take action!
 でも、つまりそれって…=But in short, what you’re saying|is...
 ニアの残した思いが道しるべに=Nia left that thing as a guidepost
 なったってこと？=for us?
@@ -9166,8 +9166,8 @@
 道理ではないからな=the fighting to the humans.
 うん、見届ける！！=I want to see it with my own eyes!
 最後の最後まで！！！=To the end of the end!!
-……お前がかっこつけても=...Even if you try to show off,
-どうにも締まらないな=you still look scared.#tc
+……お前がかっこつけても=...Even if you try to act cool
+どうにも締まらないな=it’ll never work.
 ギガンチョムカツク！！=What!? I’m gigancho-offended!
 このギザギザッ歯！=You Shark-Shark-Teeth!
 うるせっ！=Don’t call me that!
@@ -9185,7 +9185,7 @@
 逆に何でこんなことになってるのか=To be honest, I wish I knew why
 聞きたいくらいだ=it ended up like this.
 ふ～～～ん=Hmmm...
-なんか、君もイロイロ大変だね=I guezz you must have all kinds|of problems too, huh?#tc
+なんか、君もイロイロ大変だね=I guezz you must have all kinds|of struggles too, huh?
 !FILE:TETO_003.SPC
 アイツとやるの？=You went up against HIM?
 うん……そうみたい=Yeah... I guess we did.
@@ -9469,8 +9469,8 @@
 道理ではないからな=the fighting to the humans.
 うん、見届ける！！=I want to see it with my own eyes!
 最後の最後まで！！！=To the end of the end!!
-……お前がかっこつけても=...Even if you try to show off,
-どうにも締まらないな=you still look scared.#tc
+……お前がかっこつけても=...Even if you try to act cool
+どうにも締まらないな=it’ll never work.
 ギガンチョムカツク！！=What!? I’m gigancho-offended!
 このギザギザッ歯！=You Shark-Shark-Teeth!
 うるせっ！=Don’t call me that!
@@ -9660,7 +9660,7 @@
 大丈夫ならいいわ=If he’s all right now, then that’s
 ごめんね、変なこと聞いて！=all there is to it.>>Sorry for asking such a strange|question!
 ………=...
-……俺のことは=...She didn’t ask about me.#tc
+……俺のことは=...She didn’t ask about me.
 聞いてくれないんだな=!
 ぶみ～～～～=ByuiCUS(WAVE)CUS(WAVE)!
 なんだお前、なぐさめてくれるのか=Huh, are you trying to cheer me
@@ -9836,7 +9836,7 @@
 私は認めたわけじゃないから！=you...>>but don’t think that I’ll be|fooled so easily!
 へ～～～い=Awriiiight.
 それじゃあ信用してもらえるように=Then I’ll sing a boobalicious song
-ボィンの歌を歌うっす～～♪=until you trust meCUS(WAVE)CUS(WAVE)♪#tc
+ボィンの歌を歌うっす～～♪=so you’ll trust meCUS(WAVE)CUS(WAVE)♪#wanted to say “so that you’ll”, but it doesn’t work with the ~
 歌うな！！=Don’t sing!!
 ちぇ～～～=WehhCUS(WAVE)CUS(WAVE)CUS(WAVE)!
 今度あやしい行動とったら=I really will shoot if you do
