@@ -8990,7 +8990,7 @@
 っ！！　直撃！？=Ack!! We’ve taken a direct hit!?
 何で！？=What happened?!
 わかりません！！=Unknown!
-螺旋フィールドは健在！！=Spiral field is holding steady!!!
+螺旋フィールドは健在！！=Spiral Field is holding steady!!!
 計器上は………完全に攻撃を=According to my monitor, the attack
 防いでいます！！！！=is being blocked completely!!!
 でも、あたってるじゃないか！=But they're hitting us!?
