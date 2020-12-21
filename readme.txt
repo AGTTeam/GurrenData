@@ -18,6 +18,12 @@ We hope you enjoy!
 
 ===
 
+Warning
+
+Some scenes rely heavily on visual effects (e.g. Chapter 50, "I Accept Your Wish"), which may potentially trigger motion sickness in people who are sensitive. Caution is advised.
+
+==
+
 Changes to the game
 
 A compiled list of bug fixes/tweaks that were made to the original ROM.
