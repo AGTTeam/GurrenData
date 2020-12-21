@@ -8753,7 +8753,7 @@
 …新手か！=...Reinforcements, huh?
 ほう、これはまた大所帯だな！=Heh, they’re putting on the Ritz
 ……どれから片付ける？=for us!
-より取り見取りだぜ！！！=So, which one should we start with?|It’s an all you can eat buffet!!!
+より取り見取りだぜ！！！=So, which one should we start with?|It’s an all-you-can-eat buffet!!!
 迷い箸は行儀悪いって言うぜ…？=You’re going to single out the|ones you fancy most?>>Now that’s just bad manners.
 話が早くて助かる…=In that case... let’s go for
 なら目の前からだっ！！=whoever we grab first!!
