@@ -8647,7 +8647,7 @@
 計器類に異常はないようです！=No, not an abnormality--!
 敵ムガン編隊……無量大数！！=The number of enemy Mugann...|is off the charts!!
 いきなりお出迎えか！！=They’re here to greet us, huh!?
-ああ、歓迎されているようだな！=Yeah, seems we’ve been thrown a|welcome party!
+ああ、歓迎されているようだな！=Yeah, seems we’ve been thrown a|welcoming party!
 よし！　グレンラガン！=All right! Prepare Gurren Lagann
 発進準備急げ！！=for take-off!!
 超銀河ダイグレンは主砲迎撃！=Super Galaxy Dai-Gurren will take|the main battery!
