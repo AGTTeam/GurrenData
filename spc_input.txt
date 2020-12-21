@@ -2669,8 +2669,8 @@
 !FILE:LEER_015.SPC
 やっかいだな…=We’re stuck... Isn’t there any way
 浮上できないのか！=to re-surface!?
-これでも一杯のパワーで=We’re already trying to use our
-上昇していますっ！=full power to rise up!
+これでも一杯のパワーで=We’re already using our full power
+上昇していますっ！=trying to rise up!
 ……沈降しているけどね……=...Although we haven’t moved|anywhere...
 ………っ！=...!
 ごめんなさい、別にあなたを=Sorry, I wasn’t trying to point
