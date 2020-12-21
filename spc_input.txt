@@ -951,7 +951,7 @@
 イベント=
 戦闘=
 !FILE:END_01.SPC
-やだ、ほら！=Ew look! He’s totally
+やだ、ほら！=Ew, look! He’s totally
 ぼーっとして！=out of it!
 穴掘りすぎて=Has he finally lost
 ついにいかれたか？=it?
@@ -1044,7 +1044,7 @@
 それがわかれば螺旋生命を=If we can determine those, we can
 一気に消滅できるはずだ=surely find the key...>>to exterminating all Spiral|lifeforms in one blow.
 シモン達は…負けません！=Simon and the others... won’t lose!
-ふふ…私が言っているのは=Heh... I speak for all Spiral
+ふふ…私が言っているのは=Heh... I'm talking of all Spiral
 螺旋生命体すべてのこと=lifeforms...
 グレンラガンなら=But if it’s Gurren Lagann you mean,
 多元宇宙連続体の迷宮の中だ= >>it is in the extradimensional|labyrinth.
