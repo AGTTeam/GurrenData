@@ -5939,7 +5939,7 @@
 何がわかる！？=you know about it!?
 わかるとも……=I do get it...
 人間の弱さ……=That’s humanity’s
-それに、強さもだ！！=weakness...>>And, also its|strength!!
+それに、強さもだ！！=weakness...>>And also its|strength!!
 弱い人間は去れ！=Weak humans should
 この世から去れ！！=disappear!>>Begone from this|world!!
 !FILE:SYS_062.SPC
