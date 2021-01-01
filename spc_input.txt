@@ -6751,7 +6751,7 @@
 のんきなこと=Now’s not the time for moping!
 言ってんじゃないわよっ！=!
 主砲発射発射発射！！=Fire main cannons! Fire, fire!
-音だけじゃねーかっ！！=It’s like a lights show out there!
+音だけじゃねーかっ！！=It’s like a light show out there!
 当たってねぇってんだよ！=They’re not hitting anything!
 きゃっ！！=Eeek!!
 ニアっ！！=Nia!!
@@ -8321,7 +8321,7 @@
 そのための手段は=They have taken every
 全て講じてあります=necessary step...>>to achieve that aim.
 これじゃ地球は=Doesn’t that mean
-全滅じゃないか！=the Earth will be...>>completely|destroyed!?
+全滅じゃないか！=the Earth will be>>completely|destroyed!?
 どういうことだ！？=Why would you!?
 そのつもりですから=Because that is their|intention.
 ニア、お前は！！=Nia, you’d--!!
@@ -8362,7 +8362,7 @@
 ま、いいわ！=Ah well!
 ぶぃいいいいいいいい！！=BUIIIIIIIIIIIIIIIIIII!!
 ブータ！！=Boota!!
-お前も無事か！！=You're still alive!?
+お前も無事か！！=You're still okay!?
 ぶぃっ！　ぶぃ！=Buii! Bui!
 さ、急ぎましょうか！=So, let’s hurry this up!
 グレンラガンが待ってるわ！=Gurren Lagann is waiting!
@@ -8373,7 +8373,7 @@
 すると思ってるの？=would do something so crass?
 ……ああ！=...Ah!
 そう、そうだよな！=No, of course!
-棄てられたりして…=Shall we go pick up what you once
+棄てられたりして…=Shall we go get what you once
 たまるもんですか！=had to give up?#tc
 ……そうか=...Yeah.
 兄貴…の…グレンだもんな…=Bro’s... Gurren...
