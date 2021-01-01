@@ -103,7 +103,7 @@
 部品を回して<0A>一直線に電流の<0A>通り道を作れ=Turn the parts to<0A>make a straight<0A>path for the<0A>electric current.
 スイッチをタッチし<0A>扉を開き<0A>レバーを下げろ=Touch the switches<0A>to open the gates,<0A>then pull the<0A>lever.
 青いブロックを<0A>かみ合う位置に<0A>スライドしろ=Slide the blue<0A>blocks so they<0A>fit into place.
-下から適切な歯車を<0A>中央にはめ、<0A>赤い歯車を回せ=Place the correct<0A>gear into the<0A>centre, then turn the<0A>red gear.
+下から適切な歯車を<0A>中央にはめ、<0A>赤い歯車を回せ=Place the correct<0A>gear into the<0A>centre, then turn<0A>the red gear.
 回転する部品を<0A>タッチして押さえ<0A>壁とかみ合わせろ=Touch and hold the<0A>rotating part so it<0A>fits into the wall.
 サングラスとツノを<0A>向きを合わせて<0A>定位置へはめろ=Orientate the<0A>sunglasses and<0A>horns and put<0A>them in place.
 　=
