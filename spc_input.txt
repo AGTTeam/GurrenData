@@ -7005,7 +7005,7 @@
 ひっこんでなさい！=You stay here!
 …じゃまよアンタ！=...You know you’d only get in the|way.
 イヤどぅ～～♪=No wayCUS(WAVE)CUS(WAVE)♪
-出撃～～～♪=I’m comin withCUS(WAVE)CUS(WAVE)CUS(WAVE)♪
+出撃～～～♪=I’m comin’ withCUS(WAVE)CUS(WAVE)CUS(WAVE)♪
 ～～～っ！=Grr! Don’t just decide that on
 かってになさい！=your own!
 ティトリーも=Tetori will fight
@@ -9209,7 +9209,7 @@
 ほれ、シモン！　お前もだ！=Come on, Simon! Join in!
 お、おす…！=Y-Yeah...!
 ぶむ！=Byui!
-合体……合体……？=Combining... combining...?
+合体……合体……？=Combining...|combining...?
 ん？　どした？？=Hm? What’s up?
 んあ！　いや！　何でもないッス！=Ah! No! Izz nothing!
 気合だ！=Fighting spirit!
@@ -9233,21 +9233,21 @@
 ふぉおおおおおおお！！！=Weeeeeeeeh!!!
 これでも一応カスタムガンメンを=Even now, I’m still in charge of
 預かる身なのですがぁあああ…=a custom Gunmennnnnnnnn...
-しくしく……=Boo-hoo-hoo...
-しくしく……=Boo-hoo-hoo...
+しくしく……=Boohoohoo...
+しくしく……=Boohoohoo...
 よしよし♪=There, there♪
 !FILE:TETO_007.SPC
 へっへ！　シーモーン！=He he he! SiCUS(WAVE)moCUS(WAVE)n!
 ………=...
-元気の無いシモンに=I’ve got some feel better newz for
+元気の無いシモンに=I’ve got some feel-better newz for
 元気の出るニュースだよっ！=sad old Simon!
 なんと！　ワタクシめの=I can hear your excitement already!
 カスタムガンメン…=Well, my custom Gunmen...
-『メガヘッズ』の修理が=“Megaheadz” repairz are complete!
+『メガヘッズ』の修理が=“Megaheadz”’s repairz are complete!
 完了したのでありますっ！=!
 これで、シモンがピンチの時に=So now, if you’re ever caught in
-助けてあげられるじょ！！=pinch, I can come help!!
-元気出るニュースっしょ！=It’z feel better newz!
+助けてあげられるじょ！！=a pinch, I can come help!!
+元気出るニュースっしょ！=It’z feel-better newz!
 どうどう！？=How was it!?
 元気出た！？=Are you feeling better!?
 ………………=......
@@ -9285,7 +9285,7 @@
 ぷにぷに！　ぷにぷに！=Squishy squish!
 ぷにぷに！　ぷにぷに！=Squishy squish!
 ぷににぷにに！=Squishy squish squish!
-あっふ♪　ダメだって！=Nyoo♪ ZZZtop it!
+あっふ♪　ダメだって！=Nyoo♪ Zzztop it!
 いやホント！=I’m being serious!
 な、何してるんだろう=W-What’s going on here...?
 肉球ぷにぷに！=Squishy toe beans!
