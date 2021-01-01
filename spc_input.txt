@@ -8669,7 +8669,7 @@
 のような…もの？=energy tank... perhaps?
 赤くなったら急に=When they turned red, its power
 パワーが上がったわ！=suddenly increased.
-ち…やはり単体でのレッドアイは=Tch... So using red eye really does
+ち…やはり単体でのレッドアイは=Tch... So using Red Eye really does
 機体の負担が大きい！=take a huge toll on the engines!
 今日のところは=Seems like this is where we’ll
 これくらいにしてやる！=have to end it for today.
@@ -9476,7 +9476,7 @@
 うるせっ！=Don’t call me that!
 ギザギザギザッ歯！！=Shark-Shark-Shark-Teeth!
 てめぇ…ギザがどんどん=Why you--! You just keep adding
-増えてるじゃねぇか！！=more shark’s!!
+増えてるじゃねぇか！！=more Shark’s!!
 !FILE:YOCO_001.SPC
 あら、シモン=Oh, Simon.
 ココ爺にヨーコ…=Yoko and Old Coco...
